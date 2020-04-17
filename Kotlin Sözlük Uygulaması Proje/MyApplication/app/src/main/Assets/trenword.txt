@@ -1,0 +1,3641 @@
+TERK ETMEK;Abandon
+YETENEK;Ability
+MUKTEDİR;Able
+(bir taşıtın)İÇİNDE OLMAK;Aboard
+İPTAL ETMEK;Abolish
+KALDIRMAK;Abolition
+1.HAKKINDA 2.YAKLAŞIK OLARAK;About
+YUKARIDAKİ;Above
+YURT DIŞI;Abroad
+YOKLUK;Absence
+1.YOK 2.EKSİK;Absent
+MUTLAK, KESİN;Absolute
+1)EMMEK, KARŞILAMAK, DENGELEMEK 2)FİKİR ALMAK;Absorb
+SAÇMA;Absurd
+KÖTÜYE KULLANMA, SUİSTİMAL ETME,KÖTÜ SÖYLEME;Abuse
+AKADEMİK;Academic
+GAZ PEDALI;Accelerator
+ŞİVE, AKSAN;Accent
+KABUL ETMEK;Accept
+1)GİRİŞ 2)YOL;Access
+1)İÇİNE GİRİLEBİLİNİR 2)KOLAY BULUNUR;Accessible
+KAZA;Accident
+YERLEŞTİRMEK;Accommodate
+KONAKLAMA YERİ;Accommodation
+EŞLİK ETMEK;Accompany
+GÖRE;According To
+HESAP;Account
+MUHASEBE;Accounting
+TOPLAMAK,BİRİKTİRMEK;Accumulate
+DOĞRU, HATASIZ;Accurate
+SUÇLAMAK;Accuse
+1)SANIK 2)SUÇLAMAK;Accused
+ALIŞTIRMAK;Accustom
+ALIŞIK,ALIŞKIN;Accustomed
+AĞRI;Ache
+ÜSTÜNDEN GELME,ERİŞMEK,BAŞARMAK;Achieve
+BAŞARI;Achievement
+ASİT;Acid
+DOĞRULAMAK;Acknowledge
+TANIMAK,BİLMEK;Acquaint
+EDİNMEK;Acquire
+EDİNME, İSTİMLAK, EL KOYMA;Acquisition
+1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA;Across
+1.DAVRANIŞ  2.DAVRANMAK;Act
+ETKİN, FAAL;Active
+ERKEK OYUNCU;Actor
+KADIN OYUNCU;Actress
+GERÇEK;Actual
+TOPLAMAK,EKLEMEK;Add
+TİRYAKİ,MÜPTELA;Addict
+ADRES;Address
+ İDARE;Administration
+AMİRAL;Admiral
+BEĞENMEK,HAYRAN OLMAK;Admire
+1)KABUL, İTİRAF 2)GİRİŞ;Admission
+1.KABUL ETMEK  2.İZİN VERMEK;Admit
+1)KABUL ETMEK 2)EVLAT EDİNMEK;Adopt
+YETİŞKİN;Adult
+1.İLERİ 2.AVANS;Advance
+GELİŞMİŞ;Advanced
+AVANTAJ;Advantage
+MACERA;Adventure
+ZIT,KARŞI;Adverse
+REKLAM YAPMAK, İLAN VERMEK;Advertise
+TAVSİYE;Advice
+TAVSİYE ETMEK;Advise
+ANTEN;Aerial
+UÇAK;Aeroplane
+1.OLAY 2.İŞ 3.İLİŞKİ;Affair
+ETKİLEMEK;Affect
+SATIN ALMA GÜCÜ OLMAK;Afford
+KORKMAK;Afraid
+SONRA;After
+ÖĞLEDEN SONRA;Afternoon
+(bir olaydan) SONRA;Afterwards
+BİR DAHA,YİNE;Again
+KARŞI, ZIT;Against
+1.YAŞ 2.ÇAĞ;Age
+YAŞINDA;Aged
+ACENTE;Agency
+TEMSİLCİ, ARACI;Agent
+SALDIRGAN, KAVGACI;Aggressive
+ÖNCE;Ago
+ANLAŞMAK;Agree
+ANLAŞMA;Agreement
+TARIM;Agriculture
+ÖNDE;Ahead
+YARDIM;Aid
+1.AMAÇ 2.HEDEF ALMAK;Aim
+1.HAVA 2.HAVALANDIRMA;Air
+HAVA ALANI;Airport
+ALARM;Alarm
+ALBÜM;Album
+ALKOL;Alcohol
+CEBİR;Algebra
+HEMEN HEMEN AYNI, BENZER, AYNI YOLDA;Alike
+YAŞAMAK,CANLI;Alive
+1.HEP 2.TÜM 3.HER;All
+1.TAMAM 2.EVET;All Right
+BAĞLAŞMA, BİRLİK, MÜTAREKE;Alliance
+TİMSAH;Alligator
+TAHSİS ETMEK, DAĞITMAK,BÖLÜŞTÜRMEK;Allocate
+TAHSİSAT;Allocations
+İZİN VERMEK;Allow
+DÜZENLİ SAĞLANAN PARA,HARÇLIK;Allowance
+ANLAŞMA,BİRLEŞME;Ally
+HEMEN HEMEN;Almost
+1.YALNIZ  2.TEK;Alone
+1.BOYUNCA  2.İLERİ;Along
+SESLİ;Aloud
+ALFABE;Alphabet
+AZ ÖNCE, ZATEN;Already
+HEM DE;Also
+DEĞİŞTİRMEK;Alter
+ALTERNATİF, SEÇENEK;Alternative
+1.GERÇİ 2.OLMAKLA BERABER;Although
+TÜMÜYLE, HEP BERABER;Altogether
+HER ZAMAN;Always
+AMATÖR;Amateur
+ŞAŞIRTMAK;Amaze
+BÜYÜKELÇİ;Ambassador
+HIRS;Ambition
+AMBULANS;Ambulance
+TUZAK;Ambush
+DÜZELME, AYARLAMA;Amend
+ARASINDA;Among
+MİKTAR;Amount
+GENİŞ, BOL;Ample
+GÜLDÜRMEK;Amuse
+1)ÇAPA 2)DEMİR ATMAK (Gemi);Anchor
+VE;And
+MELEK;Angel
+KIZMAK;Anger
+AÇI, KÖŞE;Angle
+KIZGIN;Angry
+HAYVAN;Animal
+AYAK BİLEĞİ;Ankle
+YILDÖNÜMÜ;Anniversary
+BİLDİRMEK, ÇAĞRIDA BULUNMAK, ANONS;Announce
+RAHATSIZ ETMEK, KIZDIRMAK;Annoy
+YILLIK;Annual
+DİĞER, BİR BAŞKA;Another
+YANIT;Answer
+KARINCA;Ant
+KARŞI, ZIT, TERS;Anti
+1)ÖN GÖRMEK 2)BEKLEMEK;Anticipate
+ANTİKA;Antique
+ENDİŞE;Anxiety
+ENDİŞELİ;Anxious
+ENDİŞELİ OLMAK;Anxiously
+HERHANGİ;Any
+HERHANGİ BİRİ;Anybody
+HERHANGİ BİRİ;Anyone
+HERHANGİ BİR ŞEY;Anything
+HER NEYSE;Anyway
+HERHANGİ BİR YER;Anywhere
+AYRI;Apart
+HARİÇ, DIŞINDA;Apart From
+APARTMAN DAİRESİ;Apartment
+MAYMUN;Ape
+ÖZÜR DİLEMEK;Apologize
+AÇIK;KOLAYCA GÖRÜNEN;Apparent
+BARİZ OLMAK,GÖRÜNMEK;Apparently
+1.HOŞA GİDEN 2.YALVARMAK 3.ÜST MAHKEMEYE BAŞVURMAK;Appeal
+GÖRÜNMEK;Appear
+GÖRÜNÜŞ;Appearance
+İŞTAH;Appetite
+ELMA;Apple
+BAŞVURAN;Applicant
+BAŞVURU;Application
+1.BAŞVURMAK 2.UYGULAMAK;Apply
+ATAMAK;Appoint
+1.RANDEVU 2.ATAMA;Appointment
+MÜTEŞEKKİR, DEĞER BİLMEK ,BEĞENMEK;Appreciate
+1.YAKLAŞMAK 2.YAKLAŞIM 3.GELİŞ;Approach
+ONAYLAMAK;Approve
+YAKLAŞIK OLARAK;Approximate
+KAYISI;Apricot
+NİSAN;April
+BAŞPİSKOPOS;Archbishop
+MİMAR;Architect
+MİMARİ;Architecture
+ALAN, BÖLGE;Area
+TARTIŞMAK;Argue
+TARTIŞMA;Argument
+KALKMAK, YÜKSELMEK;Arise
+ARİSTOKRAT;Aristocrat
+KOL, SİLAH;Arm
+KOLTUK;Armchair
+ZIRH;Armour
+ORDU;Army
+1.AŞAĞI YUKARI 2.ÇEVRE;Around
+DÜZENLEMEK, AYARLAMAK;Arrange
+TUTUKLAMAK;Arrest
+VARIŞ;Arrival
+VARMAK;Arrive
+OK;Arrow
+SANAT;Art
+1.MAKALE 2.EŞYA;Article
+ANA SÖZLEŞME;Article Of Association
+YAPAY;Artificial
+SANATÇI;Artist
+1.GİBİ 2.OLARAK 3.OLARAK;As
+KÜL;Ash
+UTANMIŞ;Ashamed
+BİR YANDA;Aside
+SORMAK, İSTEMEK;Ask
+UYKUDA;Asleep
+GÖRÜNÜŞ, GÖRÜŞ, HAL, ÇEHRE, DURUM;Aspect
+1.EŞEK 2.APTAL;Ass
+1.MONTAJ 2.OTURUM;Assembly
+VARLIK;Asset
+YARDIM ETMEK;Assist
+YARDIMCI;Assistant
+İLGİLENMEK, BİRLEŞTİRMEK;Associate
+CEMİYET,BİRLİK,AYNI ŞEYLE İLGİLİ OLAN;Association
+VARSAYMAK;Assume
+GÜVEN,İNANÇ,SÖZ;Assurance
+TEMİN ETMEK,SÖZ VERMEK,İKNA ETMEK;Assure
+1)ÖNCEDEN BELLİ 2)KENDİNE GÜVENEN;Assured
+ŞAŞIRMAK (bir kimseye);Astonish
+DE..DA  eki;At
+HAVAKÜRE, ATMOSFER;Atmosphere
+BİRLEŞTİRMEK;Attach
+İLAVE, EK;Attachment
+SALDIRMAK, ATAK;Attack
+DENEMEK;Attempt
+KATILMAK, (bir yerde)BULUNMAK;Attend
+1) HİZMETÇİ, HİZMETKAR 2) REFAKAT EDEN KİMSE;Attendant
+DİKKAT;Attention
+YAKLAŞIM, DÜŞÜNCE, HAREKET, TAVIR;Attitude
+ÇEKİCİ;Attractive
+MÜZAYEDE, MEZAT;Auction
+İZLEYİCİ (TV,Tiyatro vb.);Audience
+İLAVE ETMEK, ARTTIRMAK, ZAM YAPMAK;Augment
+ZAM, EKLEME;Augmentation
+AĞUSTOS;August
+TEYZE, HALA;Aunt
+YAZAR;Author
+OTORİTE;Authority
+SONBAHAR;Autumn
+HAZIR, SERBEST, BOŞTA;Available
+CADDE;Avenue
+ORTALAMA;Average
+KAÇINMAK;Avoid
+UYANIK;Awake
+MÜKAFAT;Award
+BİLGİLİ, FARKINDA OLMAK, HABERDAR OLMAK;Aware
+BURADAN, BURADA DEĞİL;Away
+KÖTÜ, BERBAT, ÜZÜCÜ;Awful
+1)ACEMİ,SAKAR 2)KULLANILMASI,ANLAŞILMASI GÜÇ;Awkward
+BALTA;Axe
+BEBEK;Baby
+ÇOCUK BAKICISI;Babysitter
+1)BEKAR 2)ÜNİVERSİTENİN İLK DERECESİ;Bachelor
+1.ARKA 2.SIRT;Back
+1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ;Backbone
+1)OMURGA 2)TEMEL TAŞI, EN ÖNEMLİ BÖLÜM;Backbone
+1.FON, GERİ PLAN 2.TEMEL;Background
+GERİYE DOĞRU;Backward
+KÖTÜ;Bad
+1.KÖTÜ 2.ÇOK FAZLA;Badly
+ÇANTA;Bag
+BAGAJ;Baggage
+PİŞİRMEK;Bake
+FIRINCI;Baker
+1.DENGE 2.BAKİYE;Balance
+BALKON;Balcony
+KEL;Bald
+BALYA (Halı,Tütün vs.);Bale
+1.TOP 2.BALO;Ball
+BALERİN;Ballerina
+BALE;Ballet
+BALON;Balloon
+YASAK;Ban
+BANAL,ADİ;Banal
+MUZ;Banana
+1.BANT (şerit)  2.BANDO;Band
+BANDAJ,YARA BANDI;Bandage
+KÖTÜ, KÖTÜ ŞEY (A Baneful ınfluence=Kötü etki);Baneful
+1)SÜRGÜNE YOLLAMA 2)DÜŞÜNMEKTEN VAZGEÇME;Banish
+BANKA;Bank
+BANKA YÖNETİCİSİ, BANKER;Banker
+KAĞIT PARA;Banknote
+İFLAS;Bankrupt
+1.ÇUBUK 2.BAR;Bar
+BARBAR, VAHŞİ;Barbarous
+BERBER;Barber
+ÇIPLAK, BOŞ;Bare
+1.PAZARLIK ETMEK 2.KELEPİR;Bargain
+1.VARİL 2.NAMLU;Barrel
+1. TABAN 2.ÜS;Base
+BODRUM;Basement
+KAZAN;Basin
+1) LEĞEN 2) LEĞEN DOLUSU 3) HAVZA;Basin
+SEPET;Basket
+1)DEĞERİNİ DÜŞÜRMEK 2)KONUNUN ANLAMINI DEĞİŞTİRMEK;Bastardize
+YIKANMAK;Bath
+YIKAMAK (bedenin bir bölümünü);Bathe
+PİL;Battery
+SAVAŞ, MUHAREBE;Battle
+BAĞIRMAK VEYA AĞLAMAK (Seslice);Bawl
+KOY;Bay
+SAHİL;Beach
+FASULYE;Bean
+1.TAŞIMAK, DAYANABİLMEK 2.AYI;Bear
+SAKAL;Beard
+CANAVAR;Beast
+1.VURMAK  2.YENMEK;Beat
+GÜZEL;Beautiful
+GÜZELLİK;Beauty
+ÇÜNKÜ;Because
+GELİŞMEK, DEĞİŞMEK;Become
+YATAK;Bed
+ARI;Bee
+DANA ETİ;Beef
+BİRA;Beer
+HAMAMBÖCEĞİ;Beetle
+ÖNCE;Before
+ÖNCEDEN;Beforehand
+DİLENMEK;Beg
+BAŞLAMAK;Begin
+DAVRANMAK;Behave
+ARKADA, GERİDE;Behind
+VARLIK;Being
+İNANMAK;Believe
+ZİL, ÇAN;Bell
+AİT OLMAK;Belong
+ALTTA, AŞAĞIDA;Below
+KEMER;Belt
+1.TEZGAH  2.BANK;Bench
+EĞMEK, EĞİLMEK;Bend
+ALTINDA;Beneath
+YARARI OLMAK;Benefit
+KÜÇÜK ÇEKİRDEKSİZ MEYVE;Berry
+YANINDA;Beside
+HEM DE;Besides
+EN İYİ;Best
+İDDİA ETMEK, İDDİAYA GİRMEK;Bet
+DAHA İYİ;Better
+ARASINDA;Between
+ÖTESİNDE;Beyond
+ÖN YARGI,EĞİLİM;Bias
+BİSİKLET;Bicycle
+BÜYÜK;Big
+BİSİKLET;Bike
+1.MAKBUZ 2.HESAP 3.KANUN TASLAĞI 4.GAGA (KUŞ);Bill
+KAP;Bin
+BAĞLAMAK;Bind
+KUŞ;Bird
+DOĞUM;Birth
+DOĞUMGÜNÜ;Birthday
+BİSKÜVİ;Biscuit
+PİSKOPOS;Bishop
+1.PARÇA 2.MATKAP,ANAHTARIN UCU 3.ISIRMANIN PAST ŞEKLİ;Bit
+ISIRMAK;Bite
+SİYAH;Black
+1) MESANE, KESE, SİDİK TORBASI 2)İÇ LASTİK;Bladder
+USTURA, BIÇAK;Blade
+SORUMLU TUTMAK, SUÇLAMAK;Blame
+BOŞLUK;Blank
+BATTANİYE;Blanket
+PATLAYARAK PARÇALANMA, MAHVETMEK;Blast
+(Tanrı'dan) KORUNMASINI DİLEMEK, TAKDİS;Bless
+KÖR;Blind
+KABARCIK;Blister
+BLOK;Block
+ABLUKAYA ALMA;Blockade
+KAN;Blood
+ÇİÇEK, ÇİÇEK AÇMAK;Bloom
+BLUZ;Blouse
+ÜFLEMEK, PATLAMAK;Blow
+1. MAVİ 2.MUTSUZ;Blue
+BLÖF;Bluff
+BİNMEK (gemiye,uçağa,vs.) 2.TAHTA 3.KURUL;Board
+ÖVÜNMEK;Boast
+BOT,SANDAL;Boat
+GÖVDE,VÜCUT;Body
+KORUMA GÖREVLİSİ, GORİL;Bodyguard
+KAYNAMAK;Boil
+KAZAN;Boiler
+CÜRETKAR, UTANMAZ, KORKUSUZ vs.;Bold
+1)CIVATA2)SÜRGÜ(kapı) 3)ANİ KAÇIŞ(korkuyla) 4)SOMUN;Bolt
+BOMBA;Bomb
+KEMİK;Bone
+MEYDAN ATEŞİ, ŞENLİK ATEŞİ;Bonfire
+1)ÇOCUK BAŞLIĞI 2)ARABANIN KAPUTU;Bonnet
+ÇOK ZAYIF;Bony
+KİTAP;Book
+YER AYIRTMAK;Book
+BROŞÜR;Booklet
+1)PATLAMAK 2)ÇOK HIZLI GENİŞLEMEK;Boom
+1)AYAKKABI,BOT 2)BAGAJ;Boot
+SINIR;Border
+CAN SIKMAK;Bore
+CANI SIKILMIŞ;Bored
+SIKICI (I'm bored=Sıkıldım,I'm boring=Sıkıcıyım);Boring
+DOĞMUŞ;Born
+ÖDÜNÇ ALMAK;Borrow
+PATRON;Boss
+İKİSİ;Both
+CAN SIKMAK,ÜZMEK;Bother
+ŞİŞE;Bottle
+EN ALT, DİP;Bottom
+1)YANSITMAK 2)ZIPLATMAK (Top vs.);Bounce
+BAĞLI, SINIRLI,ATLAMAK;Bound
+SINIR;Boundary
+YAY;Bow
+TAS;Bowl
+1.KUTU 2.BOKS;Box
+ERKEK ÇOCUK;Boy
+SUTYEN;Bra
+BEYİN;Brain
+FRENLEMEK, FREN;Brake
+1)DAL 2)ŞUBE,KOL;Branch
+1)MARKA 2)LEKELEMEK,KÖTÜ ÜN;Brand
+YENİ MODEL,YEPYENİ;Brand-New
+PİRİNÇ (metal);Brass
+KORKUSUZ, CESUR;Brave
+EKMEK;Bread
+KIRMAK;Break
+1)ÇÖKÜŞ 2)AYIRMA,SINIFLAMA,DETAYLANDIRMA;Break Down
+KAHVALTI;Breakfast
+1)ANİDEN BAŞLAMA,PATLAK VERME(SAVAŞ)2)KAÇMAK(HAPİS);Break-Out
+GÖĞÜS;Breast
+NEFES;Breath
+NEFES ALMAK;Breathe
+RÜŞVET;Bribe
+TUĞLA;Brick
+GELİN;Bride
+KÖPRÜ;Bridge
+KISA, ÖZETLİ;Brief
+İŞ ÇANTASI;Briefcase
+PARLAK;Bright
+PARLAK,AKILLI;Brilliant
+GETİRMEK;Bring
+GENİŞ;Broad
+YAYIN (radyo ve T.V. yoluyla);Broadcast
+BROŞÜR;Brochure
+KIRIK;Broken
+KOMİSYONCU,SİMSAR;Broker
+BROŞ, İĞNE;Brooch
+SÜPÜRGE;Broom
+ERKEK KARDEŞ, AĞABEY;Brother
+KAYINBIRADER;Brother-In-Law
+ALIN;Brow
+KAHVERENGİ;Brown
+1.FIRÇA  2.FIRÇALAMAK;Brush
+KOVA;Bucket
+1.BÜTÇE  2.BÜTÇE YAPMAK;Budget
+İNŞA ETMEK, YAPMAK;Build
+BİNA;Building
+AMPUL;Bulb
+BOĞA;Bull
+MERMİ;Bullet
+ÇARPIŞMA;Bump
+TAMPON (araba);Bumper
+ENGEBELİ;Bumpy
+DESTE, DEMET;Bunch
+BUNGALOV;Bungalow
+BÜRO;Bureau
+BÜROKRASİ;Bureaucracy
+HIRSIZ;Burglar
+YANMAK;Burn
+PATLAMAK;Burst
+GÖMMEK;Bury
+OTOBÜS;Bus
+ÇALI;Bush
+İŞ;Business
+MEŞGUL;Busy
+FAKAT;But
+KASAP;Butcher
+TEREYAĞ;Butter
+DÜĞME;Button
+SATIN ALMAK;Buy
+YANINDA, SIRASINDA, TARAFINDAN, ..E KADAR;By
+BUNUN YANINDA, AKLIMA GELMİŞKEN;By The Way
+TAKSİ;Cab
+LAHANA;Cabbage
+KABİN;Cabin
+KABİNE;Cabinet
+1.KABLO 2.TELGRAF;Cable
+KAFES;Cage
+KEK;Cake
+HESAPLAMAK;Calculate
+TAKVİM;Calendar
+1)FİL veya BALİNA YAVRUSU, BUZAĞI 2)BALDIR;Calf
+1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET;Call
+SAKİN;Calm
+DEVE;Camel
+KAMERA;Camera
+SAKLAMAK;Camouflage
+KAMP;Camp
+KAMPANYA;Campaign
+KAMPÜS;Campus
+TENEKE KUTU;Can
+KANAL;Canal
+1) KANARYA KUŞU 2)KANARYA SARISI;Canary
+İPTAL ETMEK;Cancel
+İPTAL;Cancellation
+KANSER;Cancer
+ADAY;Candidate
+MUM;Candle
+TOP (silah);Cannon
+KANTİN;Canteen
+MUKTEDİR;Capable
+KAPASİTE;Capacity
+1.BAŞKENT 2.BÜYÜK HARF 3.SERMAYE, ANAMAL;Capital
+1.KAPTAN  2.YÜZBAŞI;Captain
+1.ELE GEÇİRMEK  2.HAPSE ATMAK;Capture
+ARABA;Car
+KARAVAN;Caravan
+KARBON KAĞIDI;Carbon-Paper
+KART;Card
+HIRKA;Cardigan
+DİKKAT, ÖZEN;Care
+MESLEK;Career
+ÖNEMSEMEYEN;Carefree
+DİKKATLİ;Careful
+DİKKATSİZ;Careless
+KARGO;Cargo
+KARNAVAL;Carnival
+MARANGOZ;Carpenter
+HALI;Carpet
+1.FAYTON 2.VAGON;Carriage
+TAŞIYICI;Carrier
+HAVUÇ;Carrot
+TAŞIMAK;Carry
+DEVİR;Carryover
+KARTUŞ,ŞARJÖR;Cartridge
+1.KUTU,KAP 2.DAVA;Case
+NAKİT;Cash
+YAZAR KASA;Cash-Register
+KALE;Castle
+1)PLANLANMIYAN (casual meeting) 2)NORMAL, SADE;Casual
+KEDİ;Cat
+YAKALAMAK;Catch
+TIRTIL;Caterpillar
+BÜYÜKBAŞ HAYVAN;Cattle
+KARNIBAHAR;Cauliflower
+1.NEDEN  2.NEDEN OLMAK;Cause
+UYARI;Caution
+MAĞARA;Cave
+DURDURMAK;Cease
+ATEŞ-KES;Cease-Fire
+TAVAN;Ceiling
+KUTLAMA;Celebration
+HÜCRE (hapis,beyin v.b);Cell
+KİLER, BODRUM;Cellar
+ÇİMENTO;Cement
+MERKEZİ;Central
+ORTA, MERKEZ;Centre
+YÜZYIL;Century
+TAHIL, MISIR;Cereal
+SEREMONİ;Ceremony
+KESİN,BELİRLİ,  EMİN OLMAK;Certain
+KUŞKUSUZ;Certainly
+SERTİFİKA;Certificate
+ZİNCİR;Chain
+İSKEMLE;Chair
+YÖNETİM KURULU BAŞKANI;Chairman
+TEBEŞİR;Chalk
+MEYDAN OKUMA;Challenge
+ODA (Chamber of commerce = Ticaret odası vb.);Chamber
+ŞAMPANYA;Champagne
+ŞAMPİYON;Champion
+ŞAMPİYONA;Championship
+ŞANS, FIRSAT;Chance
+1.DEĞİŞMEK  2.DEĞİŞİM 3.BOZUK PARA;Change
+KANAL (TV, radyo gibi.);Channel
+BÖLÜM, KONU;Chapter
+KİŞİLİK;Character
+1.DOLDURMAK 2.MASRAFA YAZMAK;Charge
+HAYIR SEVERLİK,YARDIM SEVERLİK;Charity
+ŞARLATAN;Charlatan
+ÇEKİCİLİK;Charm
+ÇEKİCİ;Charming
+TABLO,ÇİZELGE;Chart
+1)PATENT,BERAT,DEVLET ONAYLI 2)KİRALIK UÇAK,GEMİ vb.;Charter
+KOVALAMAK;Chase
+ÇENE ÇALMAK,SOHBET;Chat
+GEVEZELİK YAPMAK;Chatter
+UCUZ;Cheap
+1.HİLECİ 2.HİLE YAPMAK, KOPYA ÇEKMEK;Cheat
+KONTROL ETMEK;Check
+1)YANAK 2)POPO;Cheek
+YÜZSÜZ,KABA,KİBAR OLMAYAN;Cheeky
+1.NEŞE 2.COŞTURMAK;Cheer
+NEŞELİ,ŞEN,MUTLU;Cheerful
+PEYNİR;Cheese
+AHÇI,ŞEF (Yalnız yiyecek konusunda );Chef
+KİMYASAL;Chemical
+ÇEK;Cheque
+KİRAZ;Cherry
+SATRANÇ;Chess
+1)GÖĞÜS 2)SANDIK;Chest
+ÇEKMECELİ DOLAP, KONSÜL;Chest Of Drawers
+KESTANE;Chestnut
+SAKIZ;Chewing-Gum
+PİLİÇ;Chicken
+ŞEF;Chief
+ÇOCUK;Child
+ÇOCUKLUK;Childhood
+ÇOK ACI;Chilli
+RAHATSIZ EDİCİ SOĞUK;Chilly
+BACA;Chimney
+ÇENE;Chin
+1) ÇİN 2) ÇİNİ ,porselen v.b;China
+UFAK PARÇA;Chip
+ÇİKULATA;Chocolate
+SEÇİM, İSTEK, TERCİH;Choice
+1)BOĞMA,TIKAMA (BOĞARAK ÖLDÜRMEK) 2)JİKLE;Choke
+SEÇMEK;Choose
+1)KESMEK,YARMAK 2)PİRZOLA;Chop
+HIRİSTİYAN;Christian
+KIKIRDAMA;Chuckle
+KİLİSE;Church
+PURO;Cigar
+SİGARA;Cigarette
+SİNEMA;Cinema
+1.ÇEMBER  2.GRUP (ÇEVRE);Circle
+DEVRE(Close cırcuıt TV,Short-cırcuıt=Kısa devre vb);Circuit
+YUVARLAK, ÇEMBERSEL, SİRKÜLER (imza v.b);Circular
+DURUM, VAZİYET;Circumstances
+SİRK;Circus
+YURTTAŞ;Citizen
+KENT,SİTE;City
+1.KENTE AİT 2.'CIVIC DUTY': YURTTAŞLIK GÖREVİ;Civic
+SİVİL;Civil
+İLERİ SÜRMEK, SAVLAMAK;Claim
+MAHKEMEDEN HAK TALEP EDEN,DAVACI;Claimant
+ALKIŞLAMAK;Clap
+SIKICA TUTMAK;Clasp
+SINIF;Class
+KLASİK;Classic
+KİL;Clay
+1.TEMİZLEMEK 2.TEMİZ;Clean
+1.AÇIK, BERRAK, ANLAŞILAN  2.(ortalığı) TOPLAMAK;Clear
+MEMUR;Clerk
+AKILLI;Clever
+MÜŞTERİ,MÜVEKKİL;Client
+IKLIM;Climate
+TIRMANMAK, YÜKSELMEK;Climb
+KLİNİK;Clinic
+KIRPMAK,KESMEK,KLİPS (Kağıt,saρ vb.);Clip
+VESTİYER, TUVALET;Cloakroom
+SAAT;Clock
+YAKIN;Close
+1.SON 2.KAPALI 3.KAPATMAK;Close
+BEZ ( a piece of cloth );Cloth
+GİYSİLER (her zaman çoğuldur );Clothes
+BULUT;Cloud
+PALYAÇO;Clown
+1.KLÜP 2.(kağıt oyunlarında) SİNEK;Club
+İPUCU;Clue
+1) DEBRİJAJ 2) KAVRAMA;Clutch
+BERABER (Co-operate,Co-education);Co
+1.ANTRENÖR 2.YOLCU VAGONU 3.ŞEHİRLERARASI OTOBÜS;Coach
+KÖMÜR;Coal
+KIYI, SAHİL;Coast
+PALTO;Coat
+ÖRÜMCEK AĞI;Cobweb
+1)HOROZ,ERKEK KUŞ 2)ERKEKLİK ORGANI;Cock
+KAKAO;Cocoa
+HİNDİSTAN CEVİZİ;Coconut
+KOD;Code
+KAHVE;Coffee
+TABUT;Coffin
+MADENİ PARA;Coin
+SOĞUK;Cold
+1)ÇÖKMEK 2)KATLAMAK;Collapse
+YAKA, TASMA;Collar
+MESLEKTAŞ;Colleague
+TOPLAMAK;Collect
+TOPLU SÖZLEŞME;Collective Agreement
+ALBAY;Colonel
+RENK;Colour
+SÜTUN;Column
+KOMA, KOMA HALİ;Coma
+TARAK;Comb
+GELMEK;Come
+TESADÜFEN KARŞILAŞMAK VEYA BULMAK;Come Across
+KUYRUKLU YILDIZ;Comet
+KONFOR ,RAHAT;Comfort
+KONFORLU;Comfortable
+KUMANDA ETMEK;Command
+ANMAK (Kötü, üzücü bir olayı);Commemorate
+BAŞLAMAK;Commence
+1.TİCARİ 2.REKLAM ( filmi );Commercial
+1)ATAMAK,GÖREVLENDİRMEK 2)KOMİSYON (kurul,ücret);Commission
+SUÇ İŞLEMEK (To commit murder);Commit
+1)TAAHHÜT 2)SORUMLULUK;Commitment
+1.AVAM, BASİT, SADE 2.ORTAK ,MÜŞTEREK;Common
+İLETİŞİM;Communicate
+TOPLUM;Community
+EVDEN İŞE HERGÜN UZUN YOL GİDİP GELMEK;Commute
+1.ŞİRKET, KUMPANYA 2.BERABERLİK, ARKADAŞLIK;Company
+MUKAYESELİ OLARAK;Comparatively
+MUKAYESE ETMEK;Compare
+1.PUSULA  2.PERGEL;Compass
+TELAFİ ETMEK,KARŞILAMAK;Compensate
+TELAFİ,TAZMİNAT;Compensation
+YARIŞMAK;Compete
+1.YARIŞMA 2.REKABET;Competition
+YAKINMAK, ŞİKAYET ETMEK;Complain
+BÜTÜN, TÜM, TAMAMI, BİTMİŞ;Complete
+KARIŞIK,KOMPLİKE;Complicated
+İLTİFAT, KOMPLİMAN, HEDİYE;Compliment
+UNSUR, PARÇA, BİLEŞİMDE BULUNAN;Components
+YAPIM (Şiir,şarkı,sanat eseri);Compose
+KOMPOZİSYON, BİRLEŞİK;Composition
+BİRLEŞİK, BİLEŞİK;Compound
+UZLAŞMA;Compromise
+KOMPÜTÜR,BİLGİSAYAR;Computer
+KONSANTRE,YOĞUN;Concentrate
+GENEL FİKİR,DÜŞÜNCE,ANLAYIŞ-I have no conception why;Concept
+1.İLGİLENDİRMEK  2.ÜZÜLMEK;Concern
+İLGİ,ÜZÜNTÜ,ENDİŞE;Concern
+KONSER;Concert
+1.SONUCA ULAŞMAK 2.KARAR VERMEK;Conclude
+KARAR,SONUÇ;Conclusion
+1)CEZALANDIRMAK 2)MAHKUM ETMEK(veya zorunlu kılmak);Condemn
+DURUM, ŞART;Condition
+DAVRANIŞ, TAVIR,YOL GÖSTERMEK;Conduct
+1)KONİ 2)KÜLAH (Dondurma);Cone
+KONFERANS;Conference
+İTİRAF ETMEK;Confess
+GÜVEN;Confidence
+KUŞATMAK,HAPSETMEK,SINIRLAMAK;Confine
+ÇATIŞMA,ÇELİŞKİ;Conflict
+(kafası) KARIŞMAK, ŞAŞIRMAK;Confuse
+KUTLAMAK;Congratulate
+BİRLEŞTİRMEK;Connect
+İŞGAL ETMEK;Conquer
+VİCDAN, BİLİNÇ;Conscience
+BİLİNÇLİ;Conscious
+KABUL ETME,ONAYLAMA;Consent
+BUNDAN DOLAYI,SONUÇ OLARAK,SONUNDA;Consequently
+1.GÖZ ÖNÜNE ALMAK  2.DÜŞÜNMEK;Consider
+DÜŞÜNÜŞ, TARTIŞ;Consideration
+1)SATIŞ İÇİN GÖNDERME2)BAŞKASINA DEVRETME(sorumluluk;Consign
+OLUŞMAK;Consist
+TUTARLI, UYUMLU (kişi, yazı vb);Consistent
+OLUŞMAK,KURMAK;Constitute
+ANAYASA;Constitution
+İNŞA ETMEK,YAPMAK;Construct
+KONSOLOS;Consul
+DANIŞMAK;Consult
+TOPLANTI, KONSÜLTASYON;Consultation
+TÜKETMEK;Consume
+TÜKETİM;Consumption
+TEMAS, DOKUNMA;Contact
+KAPSAMAK;Contain
+KAP;Container
+TATMİN OLMUŞ;Content
+İÇERİK;Contents
+YARIŞMA;Contest
+KITA;Continent
+SÜREKLİ;Continuous
+KONTRAT,ANLAŞMA;Contract
+TERSİNE, ZIDDINA;Contrary
+KARŞILAŞTIRMAK;Contrast
+KATKIDA BULUNMAK;Contribute
+KONTROL ETMEK, YÖNETMEK;Control
+UYGUNLUK, KOLAYLIK;Convenience
+ELVERİŞLİ, UYGUN;Convenient
+SÖYLEŞİ;Conversation
+MAHKUM,SUÇLU;Convict
+İKNA ETMEK;Convince
+1.AŞÇI 2.YEMEK PİŞİRMEK;Cook
+1.SERİN 2.SERİNLETMEK, SOĞUTMAK;Cool
+BİRLİKTE ÇALIŞMAK;Co-Operate
+POLİS;Cop
+BAŞA ÇIKMAK,AYAK UYDURMAK;Cope
+BAKIR;Copper
+KOPYALAMAK, TAKLİT ETMEK;Copy
+1)POLİS 2)ASKER KORDONU;Cordon
+MANTAR ,(Cork-screw :mantar açacağı);Cork
+1. EKİN, MISIR 2.NASIR (tread on someone~s corns);Corn
+KÖŞE;Corner
+CESET;Corpse
+1.HATASIZ  2.DÜZELTMEK;Correct
+1)MEKTUPLAŞAN,MEKTUBA CEVAP VEREN 2)MUHABİR;Correspondent
+KORİDOR;Corridor
+RÜŞVETÇİLİK,YOLSUZLUK;Corruption
+KOZMETİK;Cosmetic
+MALİYET,  MAL OLMAK;Cost
+PAHALI;Costly
+KOSTÜM;Costume
+KÖY EVİ;Cottage
+PAMUK;Cotton
+ÖKSÜRMEK;Cough
+KONSEY;Council
+SAYMAK;Count
+1.ÜLKE  2.KIRLIK ALAN;Country
+SPOR ARABA;Coupe
+1.ÇİFT (karı-koca v.b)  2.BİR KAÇ;Couple
+KUPON;Coupon
+CESARET;Courage
+1.GİDİŞAT  2.KURS;Course
+1.MAHKEME  2.KORT;Court
+KUZEN;Cousin
+KAPLAMAK;Cover
+İNEK;Cow
+KORKAK;Coward
+KIRMAK;Crack
+KRAKER;Cracker
+KRAMP;Cramp
+VİNÇ İLE KALDIRMAK, VİNÇ;Crane
+ÇARPIŞMAK (sertçe), ÇARPIŞTIRMAK;Crash
+ÇILGIN;Crazy
+1.KREMA  2.KREM  3.KİRLİ BEYAZ;Cream
+YARATIŞ;Creation
+YARATIK;Creature
+KREDİ;Credit
+SUÇ;Crime
+SUÇLU (yasa önünde);Criminal
+KRİZ;Crisis
+CİBS,KIZARMIŞ KURU PATATES;Crisp
+1)İNCE 2)KAŞ;Crisp
+KRİTİK;Critical
+ELEŞTİRMEK;Criticize
+AFRİKA TİMSAHI;Crocodile
+ÜRÜN (toprak ürünü);Crop
+1.KARŞIDAN KARŞIYA GEÇMEK,ÇAPRAZLAMA GİTMEK 2.HAÇ;Cross
+GEÇİT;Crossing
+KAVŞAK;Crossroads
+ÇAPRAZ BULMACA;Crossword
+1)KARGA 2)HOROZ ÖTÜŞÜ;Crow
+KALABALIK;Crowd
+TAÇ;Crown
+EN ÖNEMLİ AN (Karar iρin vb.);Crucial
+PETROL  ( Crude oil=Ham petrol);Crude
+ZALİM;Cruel
+1.DENİZ GEZİSİ  2.KITALARARASI SİLAH;Cruise
+KIRMAK (basarak);Crush
+BAĞIRMAK, AĞLAMAK;Cry
+KÜP;Cube
+HIYAR;Cucumber
+TOPRAKLA UĞRAŞMAK;Cultivate
+KÜLTÜR;Culture
+1.FİNCAN  2.KUPA;Cup
+İYİLEŞTİRMEK, TEDAVİ, İŞLEM;Cure
+MERAK;Curiosity
+1.MERAKLI 2.OLAĞANDIŞI;Curious
+KIVIRMAK;Curl
+1.AKIM 2.CARİ 3.KUR;Current
+HAFİF ACILI;Curry
+LANET;Curse
+PERDE;Curtain
+EĞRİ;Curve
+YASTIK;Cushion
+GELENEK;Custom
+ALICI, MÜŞTERİ;Customer
+GÜMRÜK;Customs
+KESMEK;Cut
+BİSİKLET, TUR;Cycle
+SİLİNDİR;Cylinder
+BABA;Dad
+GÜNLÜK;Daily
+PAPATYA;Daisy
+BARAJ;Dam
+ZARAR, ZARAR VERMEK;Damage
+NEMLİ;Damp
+DANS;Dance
+TEHLİKE;Danger
+TEHLİKELİ;Dangerous
+1.CESARETLİ OLMAK,CÜRET GÖSTERMEK 2.MEYDAN OKUMAK;Dare
+1.KARANLIK 2.KOYU 3.SİYAH TENLİ;Dark
+SEVGİLİ;Darling
+1.FIRLAMAK ANİDEN KOŞMAK  2.'-'işareti;Dash
+GÜNÜN TARİHİ;Date
+1)HURMA 2)RANDEVU;Date
+KIZ ÇOCUK;Daughter
+GÜN;Day
+ÖLÜ;Dead
+MÜHLET,SON TESLİM TARİHİ;Deadline
+1)ÇIKMAZ 2)AÇMAZ;Deadlock
+SAĞIR;Deaf
+ALIP SATMAK (ticari), İŞ YAPMAK;Deal
+1.SEVGİLİ, SEVİLEN  2.PAHALI;Dear
+ÖLÜM;Death
+TARTIŞABİLİNİR;Debatable
+TARTIŞMA;Debate
+BORÇ;Debt
+ÇÜRÜMEK,BOZULMAK;Decay
+KANDIRMAK;Deceive
+ARALIK (ayı);December
+DOĞRU,HAKLI,İYİ;Decent
+KARAR VERMEK;Decide
+KARAR;Decision
+AÇIKLAMAK;Declare
+AZALTMAK,GERİLEMEK,DÜŞMEK;Decline
+DÖŞEMEK, DEKORE ETMEK;Decorate
+AZALMAK;Decrease
+1.EYLEM  2.TAPU;Deed
+DERİN;Deep
+GEYİK;Deer
+İFA ETMEME,HAZIR BULUNMAMA(Default Payment=Ödememe);Default
+KAYBETMEK (oyunda,savaşta,vs.);Defeat
+SAVUNMA, DEFANS;Defence
+SAVUNMAK;Defend
+GECİKTİRME, ERTELEME;Defer
+AÇIK (budget deficit=bütçe açığı);Deficit
+KESİN, BELİRLİ;Definite
+TANIMLAMA;Definition
+DERECE;Degree
+GECİKTİRMEK, ERTELEMEK;Delay
+KASTEN;Deliberately
+NAZİK;Delicate
+LEZZETLİ;Delicious
+HOŞNUTLUK;Delight
+HOŞNUT EDİCİ;Delightful
+DAĞITMAK, DAĞITIM;Deliver
+İSTEK, TALEP, İHTİYAÇ;Demand
+YIKMAK, PARÇALAMAK;Demolish
+AÇIKÇA GÖSTERMEK, DEMONSTRE ETMEK;Demonstrate
+GÖSTERİ;Demonstration
+CESARETİNİ KIRMAK, MORAL BOZMAK;Demoralize
+DİŞÇİ;Dentist
+İNKAR ETMEK, YALANLAMAK;Deny
+AYRILMAK;Depart
+BÖLÜM,DEPARTMAN;Department
+BAĞIMLI OLMAK, İHTİYACI OLMAK;Depend
+BAĞIMLI (In dependent:bağımsız);Dependent
+DEPOZİT;Deposit
+BUNALTMAK;Depress
+DERİNLİK;Depth
+VEKİLLİK;Deputation
+VEKİL;Deputy
+TANIMLAMAK, BETİMLEMEK;Describe
+1.ÇÖL 2.TERK ETMEK(haksız yere);Desert
+HAKKETMEK, LAYIK OLMAK;Deserve
+DİZAYN;Design
+ARZU;Desire
+SIRA,MASA;Desk
+ÜMİTSİZLİK;Despair
+UMUTSUZ, ÇOK CİDDİ;Desperate
+RAĞMEN;Despite
+TATLI (yiyecek);Dessert
+VARIŞ NOKTASI;Destination
+YIKMAK;Destroy
+YIKIM;Destruction
+AYIRMAK;Detach
+AYRINTI, DETAY;Detail
+DEDEKTİF;Detective
+AZİMLİ;Determined
+GELİŞMEK, BÜYÜMEK, RESİM BASMAK;Develop
+GELİŞME;Development
+ŞEYTAN;Devil
+KIRAĞI (nem);Dew
+ŞEMA, DİYAGRAM;Diagram
+1.GÖSTERGE 2.TELEFON ETMEK;Dial
+ÇAP;Diameter
+1.ELMAS 2.KARO (kağıt oyunlarında);Diamond
+GÜNLÜK, AJANDA;Diary
+ZARLAR ( Tavla );Dice
+DİKTATÖR;Dictator
+SÖZLÜK;Dictionary
+ÖLMEK;Die
+REJİM, DİYET;Diet
+AYIRIM, FARK;Difference
+FARKLI;Different
+ZOR;Difficult
+KAZMAK;Dig
+1)HAZM ETMEK2)OLAYI KAVRAMAK 3)ÖZET,ANA FELSEFE,KURA;Digest
+KISIK, SÖNÜK;Dim
+AKŞAM YEMEĞİ;Dinner
+DALDIRMAK;Dip
+DİPLOMA;Diploma
+DİPLOMAT;Diplomat
+1.DİREKT 2.YÖNLENDİRMEK, YOL VERMEK;Direct
+YÖN;Direction
+DİREKTÖR;Director
+REHBER (telefon vb.);Directory
+KİR;Dirt
+KİRLİ;Dirty
+DEZAVANTAJ;Disadvantage
+ANLAŞAMAMAK, UYUŞMAMAK;Disagree
+GÖZDEN KAYBOLMAK;Disappear
+HAYAL KIRIKLIĞINA UĞRAMAK;Disappoint
+FELAKET, AFET;Disaster
+DİSK;Disc
+DİSİPLİN;Discipline
+DİSCOKEY;Disc-Jockey
+AÇIĞA, MEYDANA ÇIKARMAK, BİLİNMESİNİ SAĞLAMAK;Disclose
+DİSKO;Disco
+KEŞFETMEK;Discover
+TARTIŞMAK;Discuss
+HASTALIK;Disease
+TİKSİNTİ;Disgust
+1.TABAK ÇANAK,BULAŞIK 2.ÖZEL YEMEK;Dish
+1)SÜPRİZ 2)ÜZÜNTÜ;Dismay
+KORKU, DEHŞET;Dismay
+KOVMAK, YOL VERMEK, SAL VERMEK;Dismiss
+İTAAT ETMEMEK;Disobey
+SEVK ETMEK, YOLLAMAK;Dispatch
+YERİNDEN ÇIKARMAK (Kuvvet etkisi ile);Displace
+GÖSTERMEK;Display
+ATMAK, BIRAKMAK, ORTAYA ÇIKARMAK;Dispose
+ANLAŞMAZLIK;Dispute
+UZAKLIK;Distance
+UZAK;Distant
+AÇIK, ÖZEL, FARKLI;Distinct
+KÜÇÜK FARKLILIK;Distinction
+AYIRT ETME ( bir özelliğinden dolayı );Distinguish
+DAĞITMAK;Distribute
+BÖLGE (toprak,ülke);District
+RAHATSIZ ETMEK;Disturb
+DALIŞ;Dive
+DALGIÇ;Diver
+BÖLMEK, PAYLAŞTIRMAK;Divide
+BÖLÜM;Division
+BOŞANMAK;Divorce
+BAŞ DÖNMESİ;Dizzy
+YAPMAK;Do
+1.TERSANE(gemi) 2.SANIK İSKEMLESİ 3.DOK;Dock
+DOKTOR;Doctor
+DOKÜMAN;Document
+KÖPEK;Dog
+OYUNCAK BEBEK;Doll
+EVCİL, EVE AİT, İÇSEL;Domestic
+HAKİM OLMA;Dominate
+BAĞIŞ YAPMAK;Donate
+BAĞIŞ;Donation
+EŞEK;Donkey
+BAĞIŞ YAPAN,İYİLİK SEVER (organ, okul bağışı vb.);Donor
+KÖTÜ KADER,KÖR TALİH;Doom
+AHİRET GÜNÜ;Doomsday
+KAPI;Door
+BİR SEFERDE ALINAN İLAÇ MİKTARI;Dose
+ÇİFT;Double
+1.ŞÜPHE 2.EMİN OLMAMAK;Doubt
+AŞAĞISI;Down
+PEŞİN (Ödeme);Down Payment
+UYUKLAMAK, HAFİF UYKU;Doze
+DÜZİNE;Dozen
+1)SURET, MÜSVEDDE 2)BANKA ÇEKİ, ÖDEME EMRİ;Draft
+SÜRÜKLEMEK;Drag
+EJDERHA;Dragon
+LAĞIM, SU YOLU;Drain
+DRAM;Drama
+HAVA AKIMI, CERYAN;Draught
+DAMA OYUNU;Draughts
+1.ÇİZMEK (resim) 2.ÇEKMEK (çekmece);Draw
+ÇEKMECE, GÖZ;Drawer
+BOĞULMAK;Drawn
+KORKUNÇ, KÖTÜ;Dreadful
+ÇOK;Dreadfully
+DÜŞ, HAYAL, RÜYA, RÜYA GÖRMEK;Dream
+1.GİYSİ  2.GİYİNMEK;Dress
+1.DELMEK  2.(tekrar tekrar) ÖĞRETMEK;Drill
+İÇMEK;Drink
+ARABA KULLANMAK, SÜRMEK;Drive
+1.DÜŞÜRMEK, DÜŞMEK, BIRAKMAK  2.DAMLA;Drop
+İLAÇ, UYUŞTURUCU;Drug
+UYUŞTURUCU MADDE,İLAÇ;Drug
+1)DAVUL 2)MAKARA 3)VARİL, BİDON;Drum
+SARHOŞ;Drunk
+1.KURU 2.KURUMAK;Dry
+1)ÖRDEK 2)BAŞINI EĞMEK;Duck
+KÜÇÜK ÖRDEK;Duckling
+KADAR, VADE( borç );Due
+DÜELLO;Duel
+1.APTAL 2.KAPALI,SIKICI;Dull
+TOZ;Dust
+ÇÖP TENEKESİ;Dustbin
+1.GÖREV  2.GÜMRÜK VERGİSİ;Duty
+BOYA, BOYAMAK (Saç,kağıt vb.);Dye
+DİNAMİT;Dynamite
+DİNAMO;Dynamo
+HANEDANLIK;Dynasty
+ÖRNEĞİN (kısaltılmışı);E.G.
+HER, HER BİRİ;Each
+İSTEKLİ;Eager
+KARTAL;Eagle
+KULAK;Ear
+ERKEN;Early
+PARA KAZANMAK;Earn
+CİDDİ;Earnest
+1.DÜNYA  2.TOPRAK  3.TOPRAK PARÇASI;Earth
+DEPREM;Earthquake
+KOLAYLIK;Ease
+DOĞU;East
+KOLAY;Easy
+YEMEK YEMEK;Eat
+EKO, AKİS;Echo
+EKONOMİK;Economical
+KENAR;Edge
+EDİTÖR;Editor
+EĞİTİM;Educate
+YILAN BALIĞI;Eel
+ETKİ;Effect
+ETKİN, İYİ ÇALIŞAN;Efficient
+EFOR;Effort
+YUMURTA;Egg
+YA.....YA.....;Either.....Or....
+ZAMANIN GEÇMESİ (3 days have elapsed);Elapse
+ELASTİK;Elastic
+DİRSEK;Elbow
+YAŞLI (daha yaşlı);Elder
+SEÇMEK;Elect
+SEÇİM;Election
+ELEKTRİK;Electricity
+ŞIK;Elegant
+TEMEL, BAŞLANGIÇ İÇİN;Elementary
+FİL;Elephant
+DAHA, BAŞKA;Else
+BAŞKA BİR YER;Elsewhere
+1)GEMİ YADA UÇAKLA GİTMEK 2)BİRŞEY YAPMAYA BAŞLAMAK;Embark
+1)SIKINTI 2)UTANMAK;Embarrassment
+BÜYÜKELÇİLİK;Embassy
+SARILMAK;Embrace
+ÇIKMAK;Emerge
+ACİL DURUM;Emergency
+GÖÇMEN (kendi ülkesinden göçen);Emigrate
+KUVVETLİ DUYGU;Emotion
+ÖNEMLİ,ŞİDDETLİ VURGU;Emphasis
+ÜZERİNDE DURMAK;Emphasize
+KESİNLİKLE,MUTLAK,KESİN(Emphatic victory=Kesin Zafer;Emphatic
+İMPARATORLUK;Empire
+ÇALIŞTIRMAK (parayla adam çalıştırmak);Employ
+ÇALIŞTIRILAN ADAM;Employee
+İŞVEREN;Employer
+İŞ;Employment
+BOŞ;Empty
+KAPATMAK, ETRAFINI KAPATMAK;Enclose
+CESARETLENDİRMEK;Encourage
+SON, BİTİRMEK;End
+TASTİK,ONAY,CIRO;Endorsement
+DÜŞMAN;Enemy
+ENERJİ;Energy
+1.NİŞANLAMAK  2.İŞ VERMEK;Engage
+MAKİNE;Engine
+EĞLENMEK;Enjoy
+KOCAMAN, İRİ;Enormous
+YETER;Enough
+GİRMEK;Enter
+GİRİŞİM;Enterprise
+AĞIRLAMAK (konukları);Entertain
+EĞLENCE;Entertainment
+YETKİ VERMEK, HAK VERMEK;Entitle
+GİRİŞ;Entrance
+ZARF;Envelope
+MEZAR TAŞI YAZISI;Epitaph
+EŞİT;Equal
+EŞİTLİK;Equality
+EŞİTLEMEK;Equalize
+DONATMAK;Equip
+TESİSAT,DONANIM;Equipment
+KALDIRMAK;Erect
+HATA;Error
+YÜRÜYEN MERDİVEN;Escalator
+KAÇMAK;Escape
+KONVOY,REFAKAT;Escort
+ÖZEL, ÖNEMLİ;Especial
+TEMEL, ÇOK ÖNEMLİ;Essential
+KURMAK ,İNŞA ETMEK;Establish
+1) STEYŞIN ARABA 2) MAL, MÜLK, ARSA;Estate
+TAHMİN ETMEK (hesaplayarak);Estimate
+1)BOŞALTMA,TAHLİYE ETMEK 2)TEHLİKEDEN UZAKLAŞTIRMAK;Evacuate
+1.HATTA 2.ÇİFT,BERABERE,DÜZGÜN;Even
+AKŞAM;Evening
+OLAY;Event
+SONUNDA, NİHAİ;Eventually
+HERHANGİ BİR ZAMAN;Ever
+HER;Every
+DELİL;Evidence
+KÖTÜ;Evil
+EVRİM;Evolution
+SABIK, ESKİ (ex-wife, ex-president, ex-gırl friend);Ex
+TAM;Exact
+KESİN OLARAK;Exactly
+ABARTMAK;Exaggerate
+İNCELEMEK, SINAV VERMEK;Examine
+ÖRNEK;Example
+AŞIRI;Exceed
+ÇOK İYİ;Excellent
+DIŞINDA, HARİÇ;Except
+İSTİSNA;Exception
+DEĞİŞ TOKUŞ;Exchange
+HEYECANLANDIRMAK;Excite
+BAĞIRMAK;Exclaim
+DIŞLAMAK;Exclude
+UMUMA AÇIK OLMAYAN, BAŞKALARIYLA PAYLAŞILMAYAN;Exclusive
+1.AFFETMEK  2.MUAF TUTMAK 3.ÖZÜR, MAZERET;Excuse
+YAPMAK, YERİNE GETİRMEK, İNFAZ ETMEK, İDAM ETMEK;Execute
+EGZERSİZ;Exercise
+1)YORULMA,BİTME 2)EGZOS;Exhaust
+TEŞHİR ETMEK, GÖSTERMEK;Exhibit
+SERGİ;Exhibition
+OLUŞ, VAR OLMAK;Exist
+ÇIKIŞ, ÇIKMAK;Exit
+1)BÜYÜMEK,GENİŞLEMEK2)DAHA SAMİMİ VE KONUŞKAN OLMAK;Expand
+1) GENİŞLEME, BÜYÜME 2) GENİŞLEYEN KISIM, EK;Expansion
+UMMAK,BEKLEMEK;Expect
+MASRAF;Expense
+PAHALI;Expensive
+TECRÜBE;Experience
+DENEY;Experiment
+BİLİRKİŞİ, UZMAN, EKSPER;Expert
+SÜRENİN DOLMASI;Expire
+AÇIKLAMAK;Explain
+AÇIKLAMA;Explanation
+PATLAMAK (bomba patlaması);Explode
+ARAŞTIRMAK (bir yeri);Explore
+PATLAYICI MADDE;Explosive
+İHRAÇ MALI, İHRACAT;Export
+İFADE ETMEK;Express
+İFADE;Expression
+GENİŞLETMEK, BÜYÜTMEK;Extend
+GENİŞLETME, BÜYÜTME;Extension
+BOYUT, BÜYÜKLÜK;Extent
+IŞIĞI VEYA ATEŞİ SÖNDÜRMEK;Extinguish
+FAZLA, EKSTRA;Extra
+ÇEKİP ÇIKARTMAK;Extract
+OLAĞANDIŞI;Extraordinary
+SON DERECE, AŞIRI;Extreme
+GÖZ;Eye
+KAŞ;Eyebrow
+KİRPİK;Eyelash
+GÖZ KAPAĞI;Eyelid
+MASAL, EFSANE;Fable
+HARİKA, İNANILMAZ;Fabulous
+1.YÜZ, SURAT 2.KARŞISINA ÇIKMAK, BAŞINA GELMEK;Face
+GERÇEK;Fact
+FABRİKA;Factory
+SOLMAK;Fade
+BAŞARISIZ OLMAK;Fail
+BAŞARISIZLIK,ARIZA,YETERSİZLİK(crop or heart faılure;Failure
+1.SOLGUN,ZAYIF 2.BAYILMAK;Faint
+1.DÜRÜST,ADİL 2.OLDUKÇA İYİ 3.PANAYIR 4.FUAR;Fair
+1.DÜRÜSTÇE 2.EPEYCE;Fairly
+1.İNANÇ  2.GÜVENMEK;Faith
+GÜVENİLİR, SADIK;Faithful
+TAKLİT, SAHTE;Fake
+1.DÜŞMEK  2.SONBAHAR (AmE);Fall
+1.YANLIŞ, HATALI 2.SAHTE;False
+ŞÖHRET, ÜN;Fame
+TANIDIK, BİLDİK;Familiar
+AİLE, FAMİLYA;Family
+ÜNLÜ;Famous
+1)HAVA HAREKETİ 2)TARAFTAR;Fan
+FANATİK;Fanatic
+1)HAYAL KURMA 2)HOŞ ZEVKLİ 3)FANTAZİ;Fancy
+HARİKA, OLAĞANDIŞI;Fantastic
+UZAK;Far
+ÜCRET (tren,vapur vb. için);Fare
+ÇİFTLİK;Farm
+DAHA UZAK;Farther
+MODA;Fashion
+HIZLI;Fast
+BAĞLAMAK;Fasten
+1.ŞİŞMAN 2.YAĞ (vücut et yağı);Fat
+KADER;Fate
+BABA;Father
+KUSUR;Fault
+KUSURSUZ;Faultless
+KUSURLU;Faulty
+LEHİNDE, TARAF TUTMAK;Favour
+İYİ, YARDIMCI;Favourable
+EN SEVİLEN, FAVORİ;Favourite
+KORKU;Fear
+KORKUTUCU;Fearful
+TÜY (kuş tüyü);Feather
+ÖZELLİK;Feature
+ŞUBAT;February
+BIKMAK (I'm fed up:Bıktım);Fed Up
+FEDERAL, FEDERE, GRUP İÇİNDE BİRLEŞMİŞ;Federal
+HARÇ, ÜCRET (okul, avukat, doktor v.b);Fee
+BESLEMEK;Feed
+HİSSETMEK;Feel
+ARKADAŞ (kendisine benzeyen), ADAM;Fellow
+DİŞİ;Female
+ÇİT;Fence
+FERİBOT, ARABA VAPURU;Ferry
+1)GÜBRE 2)ÜRETKEN;Fertile
+1)GÜBRELEME 2)DÖLLENME (Bees fertilize the flowers);Fertilize
+FESTİVAL;Festival
+GİDİP GETİRMEK;Fetch
+ATEŞ (vücut);Fever
+AZ, BİR KAÇ;Few
+NİŞANLI;Fiance
+KURGU (roman);Fiction
+ALAN;Field
+1)İNCİR 2)ÇOK ÖNEMSİZ KONU;Fig
+KAVGA, KAVGA ETMEK;Fight
+1.SAYI 2.ŞEKİL, VÜCUT;Figure
+1.DOSYA 2.TÖRPÜ 3.SIRA;File
+DOLDURMAK;Fill
+FİLM;Film
+SON;Final
+SONUNDA;Finally
+FİNANS;Finance
+BULMAK;Find
+1.İYİ, İNCE, KÜÇÜK  2.PARA CEZASI;Fine
+PARMAK;Finger
+BİTİM, BİTMEK;Finish
+1.YANGIN, ATEŞ ETMEK, ATEŞ 2.İŞTEN KOVMAK;Fire
+İTFAİYE;Fire-Brigade
+1.SERT 2.FİRMA;Firm
+BİRİNCİ, İLK;First
+DEVLETİN,PARA,VERGİ,BORÇ İLE İLİŞKİLİ (Fiscal year);Fiscal
+BALIK;Fish
+YUMRUK;Fist
+1.UYMAK, UYGUN  2.ANİ HASTALIK;Fit
+YAPIŞTIRMAK, TAMİR ETMEK, SABİT;Fix
+BAYRAK;Flag
+TANE (snowflake : kar tanesi);Flake
+ALEV;Flame
+FLAŞ;Flash
+1.DÜZ  2.DAİRE (apartman katı);Flat
+TAT;Flavour
+PİRE;Flea
+KAÇMAK;Flee
+FİLO (gemi vb.);Fleet
+ET (derinin altındaki);Flesh
+UÇUŞ;Flight
+1) YÜZME PALETİ, 2) YÜZGEÇ;Flipper
+YÜZMEK, BATMAMAK (mantar);Float
+SÜRÜ;Flock
+SEL;Flood
+YAPININ TABANI, KAT;Floor
+ÇİÇEKÇİ, ÇİÇEK YETİŞTİREN KİMSE;Florist
+UN;Flour
+ÇİÇEK;Flower
+AKICI;Fluent
+1.UÇMAK  2.SİNEK;Fly
+KÖPÜK;Foam
+SÜNGER;Foam Rubber
+SİS;Fog
+KATLAMAK;Fold
+HALK;Folk
+İZLEMEK, TAKİP ETMEK;Follow
+HOŞLANMAK, MEMNUN OLMAK;Fond
+YİYECEK, BESİN;Food
+1.APTAL  2.APTALCA DAVRANMAK  3.KANDIRMAK;Fool
+APTALCA;Foolish
+AYAK;Foot
+FUTBOL;Football
+AYAK İZİ;Footprint
+İÇİN;For
+YASAKLAMAK;Forbid
+ZORLAMAK, ZOR, FORS;Force
+TAHMİN;Forecast
+ALIN;Forehead
+YABANCI (ülke veya ırk);Foreign
+USTABAŞI, FORMEN;Foreman
+ORMAN;Forest
+DEVAMLI OLARAK;Forever
+1)SAHTESİNİ YAPMAK 2)DEMİR METALE ŞEKİL VERMEK;Forge
+ÜÇKAĞITÇI,TAKLİTÇİ;Forger
+UNUTMAK;Forget
+BAĞIŞLAMAK, AFFETMEK;Forgive
+ÇATAL;Fork
+ŞEKİL, ŞEKİLLENDİRMEK, FORM;Form
+RESMİ, CİDDİ;Formal
+ÖNCEKİ ZAMAN;Former
+DERHAL, HEMEN;Forthwith
+İKİ HAFTA, ONDÖRT GÜN;Fortnight
+1.SERVET  2.ALIN YAZISI 3.TALİH;Fortune
+İLERİ;Forward
+PİS, KİRLİ;Foul
+İNŞA ETMEK VEYA BAŞLAMAK;Found
+1.TEMEL 2.VAKIF;Foundation
+FISKİYE;Fountain
+DOLMA KALEM;Fountain-Pen
+TİLKİ;Fox
+KOLAY KIRILABİR;Fragile
+ÇERÇEVE;Frame
+AÇIK SÖZLÜ, SAMİMİ;Frank
+ÖZGÜR, RAHAT, SERBEST, SERBEST BIRAKMAK;Free
+BEDAVA, ÜCRETSİZ;Free
+ÖZGÜRLÜK;Freedom
+DONMAK;Freeze
+HAMULE, NAVLUN;Freight
+TAZE;Fresh
+CUMA;Friday
+BUZDOLABI;Fridge
+ARKADAŞ;Friend
+DOSTÇA;Friendly
+KORKU;Fright
+KORKUTMAK;Frighten
+KURBAĞA;Frog
+(...DEN,  ...DAN) EKİ;From
+ÖN;Front
+SINIR;Frontier
+KAŞINI ÇATMAK,MEMNUN OLMAMAK;Frown
+MEYVE;Fruit
+KIZARTMAK;Fry
+KANUN KAÇAĞI;Fugitive
+DOLU, TAMAMEN;Full
+NOKTA;Full Stop
+EĞLENCE;Fun
+FON, KULLANABİLİNİR MALİ KAYNAK;Fund
+TEMEL, ÖNEM, ÇOK GEREKLİ;Fundamental
+CENAZE;Funeral
+1.KOMİK  2.GARİP;Funny
+KÜRK;Fur
+DÖŞEMEK;Furnish
+DAHA;Further
+YANINDA, AYRICA, ÜSTELİK (=moreover);Furthermore
+SİGORTA (elektrik vb.);Fuse
+TELAŞ, TELAŞLANMAK;Fuss
+GELECEK;Future
+KAZANMAK;Gain
+GALERİ;Gallery
+KUMAR OYNAMAK, KUMAR;Gamble
+OYUN;Game
+ÇETE;Gang
+HAPİSHANE;Gaol
+BOŞLUK, FARK;Gap
+GARAJ;Garage
+BAHÇE;Garden
+SARIMSAK;Garlic
+GAZ;Gas
+BAHÇE KAPISI;Gate
+1.TOPARLAMAK, TOPLANMAK 2.ANLAMAK;Gather
+1)MUTLU, PARLAK, ÇOK RENKLİ 2)HOMO;Gay
+VİTES;Gear
+GENERAL;General
+GENEL;General
+GENELLİKLE;Generally
+CÖMERT;Generous
+DAHİ;Genius
+NAZİK;Gentle
+CENTİLMEN;Gentleman
+MİKROP;Germ
+1.ALMAK 2.ELDE ETMEK 3.ANLAMAK;Get
+HAYALET,HORTLAK;Ghost
+1.ARMAĞAN  2.YETENEK;Gift
+JİGOLO;Gigolo
+ZENCEFİL, HAFİF KAHVERENGİ;Ginger
+ÇİNGENE;Gipsy
+KIZ;Girl
+VERMEK;Give
+MEMNUN;Glad
+ZEVKLE;Gladly
+CAM, BARDAK;Glass
+KÜRE, DÜNYA;Globe
+PARLAK, ONURLU (parlak tarih);Glorious
+ONUR, HEYECAN, GÜZELLİK;Glory
+ELDİVEN;Glove
+YAPIŞTIRICI;Glue
+GİTMEK;Go
+HEDEF, GAYE, GOL;Goal
+KEÇİ;Goat
+TANRI;God
+ALTIN;Gold
+ALTINDAN;Golden
+AKVARYUM BALIĞI;Goldfish
+1.İYİ 2.DEVAMLI ( uzun periyot );Good
+İYİ GÖRÜNÜMLÜ, YAKIŞIKLI;Good-Looking
+KAZ;Goose
+HAYRET!...;Gosh
+DEDİKODU YAPMAK, DEDİKODU;Gossip
+YÖNETMEK, HÜKMETMEK;Govern
+HÜKÜMET;Government
+MEZUN (üniversite mezunu);Graduate
+TANECİK ( kum,buğday v.s.);Grain
+BÜYÜK, ZEVKLİ;Grand
+ÜZÜM;Grape
+GREYFURT;Grapefruit
+SIKICA TUTMAK;Grasp
+1.OT, ÇİM 2.MUHBİR ,İSPİYONCU;Grass
+MİNNETTAR;Grateful
+1.MEZAR 2.KÖTÜ, ÖNEMLİ;Grave
+MEZARTAŞI;Gravestone
+MEZARLIK, MEZAR;Graveyard
+BÜYÜK, ÇOK, ÇOK İYİ;Great
+1. YEŞİL 2.TECRÜBESİZ ,TOY;Green
+MANAV;Greengrocer
+KUTLAMA;Greeting
+GRİ;Grey
+GRİL;Grill
+SIKICA TUTMAK;Grip
+BAKKAL;Grocer
+DAMAT;Groom
+YER, TOPRAK;Ground
+GURUP, TOPLULUK;Group
+BÜYÜMEK, YETİŞMEK;Grow
+SIZLANMAK,YAKINMAK;Grumble
+GARANTİ;Guarantee
+KORUMAK;Guard
+GERİLLA;Guerrilla
+TAHMİN ETMEK;Guess
+KONUK;Guest
+REHBER, REHBERLİK ETMEK;Guide
+yl  GÜDÜMLÜ ROKET;Guided Missile
+SUÇ, KABAHAT;Guilt
+GİTAR;Guitar
+KÖRFEZ;Gulf
+1.YAPIŞKAN 2.DİŞ ETİ;Gum
+SİLAH;Gun
+ADAM;Guy
+ALIŞKANLIK;Habit
+DOĞAL YUVA (hayvan, bitki vb. yaşadığı yer);Habitat
+DOLU (yağış);Hail
+1.SAÇ  2.HAYVAN TÜYÜ;Hair
+KUVAFÖR, BERBER;Hairdresser
+SAÇ KURUTMA MAKİNASI;Hairdryer
+YARIM;Half
+HOL;Hall
+DUR;Halt
+DOMUZ AYAĞINDAKİ ET;Ham
+ÇEKİÇ, ÇEKİÇLEMEK;Hammer
+EL;Hand
+EL BOMBASI;Hand Grenade
+EL ÇANTASI (kadınların);Handbag
+SAKAT;Handicap
+MENDİL;Handkerchief
+1.TUTACAK 2.ELİNDEN GELMEK, YAPABİLMEK 3.ELLEMEK;Handle
+YAKIŞIKLI;Handsome
+EL YAZISI;Handwriting
+ASMAK;Hang
+BEKLE;Hang On
+HANGAR;Hangar
+OLMAK;Happen
+MUTLU;Happy
+LİMAN;Harbour
+SERT, ZOR, BELALI, KÖTÜ;Hard
+ZORLA, İYİ DEĞİL;Hardly
+ZARAR,KÖTÜLÜK;Harm
+ZARARLI;Harmful
+HASAT;Harvest
+HIZ, ACELE;Haste
+ŞAPKA;Hat
+NEFRET;Hate
+SAHİP OLMAK;Have
+1.ATMACA 2.EL ARABASIYLA SATMAK, SEYYAR SATICILIK;Hawk
+TEHLİKE, RİSK;Hazard
+BAŞ, KAFA;Head
+MERKEZ,KARARGAH;Head Quarters
+BAŞ AĞRISI;Headache
+BAŞLIK (Gazetede);Headline
+KULAKLIK;Headphone
+SAĞLIK;Health
+SAĞLIKLI;Healthy
+DUYMAK;Hear
+1.KALP  2.KUPA (oyun kartlarında);Heart
+ISI;Heat
+ISITICI;Heater
+CENNET;Heaven
+AĞIR;Heavy
+HEKTAR;Hectare
+TOPUK;Heel
+YÜKSEKLİK;Height
+MİRASÇI;Heir
+CEHENNEM;Hell
+YARDIM, YARDIM ETMEK;Help
+DİŞİ KUŞ, PİLİÇ;Hen
+BURASI, BURADA, BURAYA;Here
+MİRAS;Heritage
+KAHRAMAN;Hero
+DURAKSAMAK, TEREDDÜT ETMEK;Hesitate
+HIÇKIRIK;Hiccup
+SAKLANMAK, SAKLAMAK;Hide
+YÜKSEK;High
+KORSANLIK YAPMAK (uçak,araba,v.s.);Hijack
+KORSAN, EŞKIYA;Hijacker
+TEPE, YOKUŞ;Hill
+1)MENTEŞE 2)DAYANAK NOKTASI, DESTEK, ESAS;Hinge
+KİRALAMAK (taşınabilir nesneleri,araba,TV, v.b );Hire
+TARİH;History
+DARBE, ÇARPMAK, POPÜLER (hit);Hit
+OTOSTOP YAPMAK;Hitch-Hike
+HOBİ;Hobby
+TUTMAK, KAVRAMAK;Hold
+BEKLE;Hold On
+DELİK;Hole
+TATİL GÜNÜ;Holiday
+BOŞ (bir cismin arkası boş olması davul,duvar v.b);Hollow
+KUTSAL;Holy
+EV, YUVA;Home
+SILA HASRETİ;Homesick
+DÜRÜST;Honest
+BAL;Honey
+BALAYI;Honeymoon
+ONUR;Honour
+ÇENGEL, KANCA;Hook
+SIÇRAMAK, ZIPLAMAK ,SEKMEK;Hop
+UMUT;Hope
+UMUTSUZ;Hopeless
+UFUK;Horizon
+YATAY;Horizontal
+1.BOYNUZ 2.KORNA;Horn
+KORKUNÇ;Horrible
+AT;Horse
+HORTUM;Hose
+HASTANE;Hospital
+EV SAHİBİ (konukları olan);Host
+ESİR, REHİNE;Hostage
+ÖĞRENCİ, TURİST KONAKLAMA YERİ;Hostel
+1.SICAK 2.ACI ( yemekte );Hot
+OTEL;Hotel
+SAAT;Hour
+SAAT BAŞI;Hourly
+EV;House
+EV HANIMI;Housewife
+HAVADA KALMAK;Hover
+NASIL;How
+HER ŞEKİLDE;However
+GÜRÜLTÜ;Hubbub
+SARILMAK,KUCAKLAMAK;Hug
+ÇOK BÜYÜK;Huge
+VIZILDAMAK, DUDAK KAPALI ŞARKI SÖYLEMEK;Hum
+İNSAN, BEŞERİ;Human
+ALÇAK GÖNÜLLÜ;Humble
+GÜLDÜRÜ, MİZAH;Humour
+AÇ;Hungry
+AVLAMAK;Hunt
+ACELE ETMEK;Hurry
+YARALAMAK, YARALANMAK;Hurt
+KOCA, ERKEK EŞ;Husband
+SAKİNLİK,SESSİZLİK,SUS;Hush
+KULÜBE, BARAKA;Hut
+BUZ;Ice
+DONDURMA;Ice-Cream
+ÇOK SOĞUK, BUZLU;Icy
+FİKİR;Idea
+YETKİN, İDEAL;Ideal
+ÖZDEŞ, ÇOK BENZEYEN, AYNI;Identical
+BELİRLEMEK, TANIMLAMAK, TANIMAK, BELİRTMEK;Identify
+APTAL;Idiot
+ATIL, BOŞ;Idle
+EĞER;If
+1)TUTUŞMA, ATEŞLEME, ATEŞ ALMA 2)ATEŞLEME TERTİBATI;Ignition
+ÖNEMSEMEMEK;Ignore
+HASTA, HASTALIK;Ill
+KANUNSUZ;Illegal
+RESİMLE GÖSTERMEK;Illustrate
+HAYAL, İMAJ;Image
+TASAVVUR, HAYAL;Imagination
+TASAVVUR ETMEK, HAYAL ETMEK;Imagine
+ÖRNEK ALMAK, TAKLİT ETMEK;Imitate
+TAKLİT;Imitation
+ANINDA, DERHAL;Immediate
+ÇOK BÜYÜK;Immense
+GÖÇMEN;Immigrate
+AHLAKSIZ, EDEPSİZ;Immoral
+BOZMAK;Impair
+SABIRSIZ;Impatient
+1)YÜRÜRLÜĞE KOYMAK 2)ALET;Implement
+İMA ETME;Imply
+KABA, NAZİK DEĞİL;Impolite
+İTHAL ETMEK;Import
+ÖNEM;Importance
+ÖNEMLİ;Important
+OLANAKSIZ;Impossible
+ETKİLEMEK;Impress
+ETKİLEMEK;Impress
+ETKİ;Impression
+ETKİLİ,ETKİLEYİCİ;Impressive
+GELİŞMEK, İYİYE GİTMEK;Improve
+GELİŞME;Improvement
+1.İÇİNDE, İÇERİ, İÇERDE, İÇERİYE  2.POPÜLER;In
+AMACIYLA, MAKSADIYLA;In Order To
+TEŞVİK;Incentive
+OLAY (önemsiz olay);Incident
+BUNUN YANINDA (=By the way);Incidentally
+KAPSAMAK;Include
+GELİR;Income
+HATALI, YANLIŞ;Incorrect
+ARTMAK;Increase
+İNANILMAZ, BÜYÜLEYİCİ;Incredible
+GERÇEKTEN;Indeed
+BELİRSİZ;Indefinite
+SONSUZ, SÜRESİZ;Indefinitely
+1)TAZMİNAT ÖDEMEK, SÖZ VERMEK, ZARARI KARŞILAMAK;Indemnify
+TAZMİNAT;Indemnity
+BAĞIMSIZ;Independent
+İNDEX;Index
+GÖSTERMEK, İŞARET ETMEK;Indicate
+AYRI, BİREY, FERT, KİMSE;Individual
+EV İÇİNDE, İÇERDE;Indoor
+ÇEKİ CIRO ETMEK,ONAYLAMAK;Indorse
+ENDÜSTRİ;Industry
+KAÇINILMAZ, HERHALDE OLAN;Inevitable
+AŞAĞILIK;Inferior
+SONSUZ;Infinite
+ATEŞ ALABİLİR;Inflammable
+ŞİŞMEK;Inflate
+ENFLASYON;Inflation
+EĞİLMESİ ZOR, BÜKÜLMEZ, İNATÇI;Inflexible
+ETKİ, ETKİLEMEK;Influence
+BİLGİ VERMEK;Inform
+RESMİ OLMAYAN,GAYRI RESMİ;Informal
+BİLGİ, ENFORMASYON;Information
+İLK HARF, BİRİNCİ, BAŞTAKİ,PARAF;Initial
+İLK HAREKET,BAŞLATMA,İNSİYATİF(Take the initiative);Initiative
+ŞIRINGA YAPMAK;Inject
+İNCİTMEK;Injure
+MÜREKKEP;Ink
+1.HAN  2.MOTEL;Inn
+SUÇSUZ, MASUM;Innocent
+ARAŞTIRMAK;Inquire
+SORU;Inquiry
+BÖCEK;Insect
+EMNİYETSİZ;Insecure
+İÇERİSİ;Inside
+ISRAR ETMEK;Insist
+MÜFLİS;Insolvent
+İNCELEMEK;Inspect
+MÜFETTİŞ;Inspector
+AKLA, FİKRE GETİRME, ESİNLEME, İLHAM GELMESİ;Inspire
+YERLEŞTİRMEK;Install
+ÖRNEK;Instance
+HIZLI,DERHAL;Instant
+YERİNE;Instead Of
+ENSTİTÜ,KURULUŞ;Institute
+YÖNERGE,TALİMAT;Instruction
+ENSTRÜMAN;Instrument
+İZOLE ETMEK;Insulate
+HAKARET ETME, ONUR KIRMA;Insult
+MANEVİ,MADDİ OLMAYAN,INTANGIBLE ASSET=MADDİ,VARLIK;Intangible
+ZEKİ;Intelligent
+PLANLAMAK, MAKSAT, NİYET;Intend
+DERİN ÜZÜNTÜ, GÜÇLÜ DUYGU;Intense
+YOĞUN (Labour intensive:Emek yoğun);Intensive
+PLAN;Intention
+1.İLGİ DUYMAK, ENTERESE OLMAK 2. FAİZ;Interest
+İLGİNÇ;Interesting
+1)KARIŞMA MÜDAHELE ETME 2)PARAZİT YAPMA (tv,radyo);Interfere
+ARADA;Intermediate
+ULUSLARARASI;International
+ÇEVİRİ, YORUMLAMAK;Interpret
+DURDURMAK, KESMEK(bir süre için), ARAYA GİRMEK;Interrupt
+ARALIK, ARA;Interval
+RÖPORTAJ, GÖRÜŞME;Interview
+BAĞIRSAKLAR;Intestines
+İÇİNE;Into
+TANIŞTIRMAK;Introduce
+İSTİLA ETMEK;Invade
+GEÇERSİZ;Invalid
+İCAT ETMEK, YARATMAK;Invent
+YATIRIM YAPMAK;Invest
+ARAŞTIRMA YAPMAK,ÇALIŞMAK;Investigate
+DAVET ETMEK;Invite
+FATURA;Invoice
+İŞE DALMAK,KARIŞMAK,GEREKTİRMEK,İÇERMEK;Involve
+1.DEMİR  2.ÜTÜ;Iron
+TAM AKSİ OLMA,İNADINA(İnadına tatilde yağmur yağdı.);Ironically
+DÜZENSİZ;Irregular
+KIZDIRMAK, SİNİRLENDİRMEK, TAHRİŞ ETMEK (deri vb.);Irritate
+ADA;Island
+1.BASKI 2.KONU 3.VERMEK;Issue
+O (cansız ve üçüncü tekil şahıs zamiri);It
+KAŞINDIRMAK;Itch
+BİRİM;Item
+1)KRİKO 2)VALE (Oyun kağıdında) 3)TORPİL YAPTIRMAK;Jack
+ÇAKAL;Jackal
+CEKET;Jacket
+JAGUAR;Jaguar
+HAPİS;Jail
+1.REÇEL 2.SIKIŞIKLIK  (tfaffic jam );Jam
+OCAK ( ayı );January
+KAVANOZ;Jar
+1.ÇENE KEMİĞİ  2.ÇENE ÇALMAK,KONUŞMAK;Jaw
+CAZ;Jazz
+KISKANÇ;Jealous
+JİN, KOT PANTOLON (Pamuklu);Jeans
+JÖLE;Jelly
+DENİZANASI, MEDÜS, SU MEDÜSÜ;Jellyfish
+JET, FIŞKIRMAK;Jet
+MÜCEVHER;Jewel
+İŞ;Job
+COKEY;Jockey
+BİRLEŞTİRMEK, BİRLEŞMEK;Join
+BİRLEŞİK;Joint
+ŞAKA;Joke
+ÇOK;Jolly
+GAZETE,DERGİ;Journal
+GAZETECİ;Journalist
+YOLCULUK;Journey
+MUTLULUK,EĞLENCE;Joy
+JÜBİLE;Jubilee
+1.HAKİM  2.YARGILAMAK;Judge
+YARGI;Judgement
+SU (meyve suyu v.s.);Juice
+TEMMUZ;July
+SIÇRAMAK, ATLAMAK;Jump
+HAZİRAN;June
+JÜRİ;Jury
+1.YALNIZ  2.HEMEN ŞİMDİ;Just
+ADALET;Justice
+KESKİN (Keen on:hoşlanmak);Keen
+KORUMAK, TUTMAK, DEVAM ETMEK;Keep
+KETÇAP;Ketchup
+ANAHTAR;Key
+TEKME, TEKMELEMEK;Kick
+1.ÇOCUK  2.DALGA GEÇMEK  3.GENÇ KEÇİ;Kid
+ZORLA KAÇIRMAK (İnsan, hayvan vb.);Kidnap
+BÖBREK;Kidney
+ÖLDÜRMEK;Kill
+AİLE, AKRABA;Kin
+1. İYİ, DOST, SEVGİLİ 2.ÇEŞİT, TÜR;Kind
+KRAL;King
+KRALLIK;Kingdom
+ÖPÜCÜK, ÖPMEK;Kiss
+MUTFAK;Kitchen
+DİZ, DİZ ÇÖKMEK;Knee
+BIÇAK;Knife
+SİLAHŞÖR, ŞOVALYE, SATRANÇTA AT;Knight
+TOKMAK, TUTACAK;Knob
+VURMAK (kapıya vurmak);Knock
+DÜĞÜM, DÜĞÜM ATMAK;Knot
+BİLMEK;Know
+BİLGİ;Knowledge
+ETİKET;Label
+LABORATUVAR;Laboratory
+İŞ(elle yapılan zor iş),İŞGÜCÜ;Labour
+EKSİKLİK;Lack
+MERDİVEN;Ladder
+KEPÇE (Yemek);Ladle
+HANIMEFENDİ;Lady
+GÖL;Lake
+KUZU, KUZU, KOYUN ETİ;Lamb
+TOPAL;Lame
+LAMBA;Lamp
+SOKAK LAMBASI;Lamppost
+ABAJUR;Lampshade
+KARA,ARAZİ;Land
+İNİŞ YAPMAK, KONMAK (uçak v.s.);Land
+EVSAHİBİ BAYAN, EVİNİ KİRAYA VEREN;Landlady
+DAR YOL, ŞERİT (Oto yolda vb.);Lane
+DİL ( yabancı dil v.b );Language
+GENİŞ;Large
+KAMÇI, BİRŞEYİ ANİ VE HIZLI SALLAMAK;Lash
+SON, SONUNDA, GEÇMİŞ;Last
+DEVAM ETMEK, SÜRMEK, YETERLİ OLMAK;Last
+1.GEÇ  2.SONU (late september=eylül sonu v.b);Late
+GÜLMEK;Laugh
+BİRŞEYE BAŞLAMAK, ROKET FIRLATMAK;Launch
+YIKANACAK ÇAMAŞIR, ÇAMAŞIRHANE;Laundry
+ÇAMAŞIR SEPETİ;Laundry-Basket
+TUVALET;Lavatory
+YASA, KANUN;Law
+YASAL;Lawful
+AVUKAT;Lawyer
+KOYMAK(bir şeyin üstüne), YATIRMAK;Lay
+TEMBEL;Lazy
+1.KURŞUN (metal)  2.KURŞUN KALEM UCU;Lead
+ÖNDERLİK ETMEK,ÖNDE GİTMEK,  YOL GÖSTERMEK;Lead
+ÖNDER, LİDER;Leader
+ÖNDERLİK;Leadership
+YAPRAK;Leaf
+BİRLİK, LİG;League
+AKINTI, SIZMAK;Leak
+1.İNCE, YAĞSIZ 2.EĞİLMEK YASLANMAK;Lean
+ÖĞRENMEK;Learn
+BELİRLİ BİR ZAMAN İÇİN KİRALAMA;Lease
+EN AZ;Least
+DERİ;Leather
+TERK ETMEK;Leave
+DERS, KONFERANS VERMEK;Lecture
+1.SOL 2.KALAN;Left
+BACAK;Leg
+MİRAS;Legacy
+YASAL;Legal
+LİMON;Lemon
+ÖDÜNÇ VERMEK;Lend
+UZUNLUK;Length
+LENS;Lens
+DAHA AZ;Less
+DERS;Lesson
+BIRAKMAK;Let
+MEKTUP, HARF;Letter
+MEKTUPLUK;Letter Box
+SALATA, KIVIRCIK;Lettuce
+DÜZEY, SEVİYE;Level
+KALDIRAÇ, MANİVALA;Lever
+YALANCI;Liar
+LİBERAL;Liberal
+SERBEST OLMAK;Liberty
+KİTAPLIK, KÜTÜPHANE;Library
+LİSANS (ehliyet v.b );Licence
+YALAMAK;Lick
+KAPAK;Lid
+YALAN, YALAN SÖYLEMEK;Lie
+YATMAK;Lie
+YAŞAM, HAYAT;Life
+1.ASANSÖR 2.YUKARI KALDIRMAK;Lift
+1.IŞIK 2.AÇIK (renklerde) 3.HAFİF;Light
+ÇAKMAK;Lighter
+1. HOŞLANMAK  2.GİBİ;Like
+BÜYÜK OLASILIKLA;Likely
+HAT, SINIR, LİMİT;Limit
+ÇİZGİ, SATIR, SIRA;Line
+BİRLEŞTİRMEK;Link
+DUDAK;Lip
+SIVI;Liquid
+TASFİYE ETMEK, ÖLDÜRME, KURTULMAK, BAŞINDAN ATMAK;Liquidate
+LİSTE;List
+DİNLEMEK;Listen
+EDEBİYAT;Literature
+ÇÖP,DAĞINIKLIK;Litter
+KÜÇÜK;Little
+CANLI;Live
+YAŞAMAK;Live
+KARACİĞER;Liver
+YAŞAMLAR;Lives
+YAŞAM BİÇİMİ;Living
+YÜK, YÜKLEMEK,SİLAH DOLDURMAK;Load
+BÜTÜN EKMEK, VAKTİ BOŞA GEÇİRMEK;Loaf
+ÖDÜNÇ VERMEK, BORÇ VERMEK, BORÇ;Loan
+İSTAKOZ;Lobster
+BÖLGESEL, YEREL;Local
+KURMAK,YERLEŞTİRMEK;Locate
+KİLİTLEMEK, KİLİT;Lock
+YALNIZ, KİMSESİZ;Lonely
+UZUN;Long
+BAKMAK, BAKIŞ;Look
+BOL, BAĞSIZ;Loose
+KAMYON;Lorry
+KAYBETMEK;Lose
+KAYIP, ZARAR;Loss
+ÇOK;Lot
+YÜKSEK SESLİ;Loud
+SEVGİ,AŞK;Love
+SEVİMLİ;Lovely
+ALÇAK, DÜŞÜK;Low
+AŞAĞIYA İNDİRMEK;Lower
+SADIK;Loyal
+SADAKAT,BAĞLILIK;Loyalty
+ŞANS;Luck
+ŞANSLI;Lucky
+VALİZ, YÜK;Luggage
+ÖĞLE YEMEĞİ;Lunch
+AKCİĞER;Lung
+LÜKS;Luxury
+MAKİNE;Machine
+MAKİNELİ TÜFEK;Machine-Gun
+DELİ;Mad
+MADAM, BAYAN;Madam
+1)SİLAH DEPOSU 2)MAGAZİN 3)ŞARJÜR (SİLAHIN);Magazine
+BÜYÜ;Magic
+MIKNATIS;Magnet
+AZAMET, İHTİŞAM;Magnificent
+BÜYÜTEÇ;Magnifying-Glass
+KADIN HİZMETÇİ;Maid
+POSTA;Mail
+ANA, ESAS;Main
+1)BAKIM ONARIM 2)ESKİ HALİNDE KORUMA 3)DESTEKLEME;Maintain
+1)BÜYÜK, ÖNEMLİ 2)BİNBAŞI (ORDUDA);Major
+ÇOĞUNLUK;Majority
+1.YAPMAK  2.ÇEŞİT;Make
+1.MAKYAJ  2.UYDURMAK;Make-Up
+ERKEK;Male
+ADAM;Man
+YÖNETMEK, KONTROL ETMEK;Manage
+YÖNETİM, İDARE;Management
+YÖNETİCİ, MENAJER;Manager
+MANYAK;Maniac
+TAVIR, GÖRGÜ;Manner
+EL İLE YAPILAN;Manual
+ÜRETMEK (Fab. vb);Manufacture
+BİRÇOK;Many
+HARİTA;Map
+1.MARŞ 2.YÜRÜYÜŞ 3.MART (ayı);March
+MARJ, KATKI;Margin
+İŞARETLEMEK, İŞARET;Mark
+PAZAR, PİYASA;Market
+MARMELAT;Marmalade
+EVLENMEK;Marry
+ŞAHANE, HARİKA;Marvellous
+MASKE;Mask
+KÜTLE, KİTLE, KALABALIK;Mass
+KATLİAM, KATLİAM YAPMAK;Massacre
+ÇOK BÜYÜK VE AĞIR;Massive
+UZMAN, ŞEF, SAHİP, HOCA;Master
+HASIR, PASPAS;Mat
+1.UYMAK, UYUŞMAK 2.MAÇ 3.KİBRİT;Match
+ARKADAŞ;Mate
+MALZEME, KUMAŞ;Material
+MATEMATİK;Mathematics
+1.MESELE  2.ÖNEMLİ OLMAK;Matter
+YATAK, SEDİR;Mattress
+1)OLGUN,ERGİN(Hayvan,meyve,insan)2)VADESİ GELEN(Ödem;Mature
+OLGUNLUK ZAMANI, VADE ZAMANI;Maturity
+MAKSİMUM, AZAMİ;Maximum
+1.MAYIS 2.MAY BE = BELKİ;May
+BANA, BEN;Me
+ÇAYIR, MERA;Meadow
+YEMEK;Meal
+1.ANLAMINA GELMEK,İSTEMEK,PLANLAMAK 2.CİMRİ;Mean
+ORTALAMA;Mean
+ANLAM;Meaning
+1.STİL, YOL, YARDIM  2.PARA;Means
+BU ARADA;Meantime
+BU ARADA, AYNI ANDA;Meanwhile
+ÖLÇÜ;Measure
+ET;Meat
+MEKANİK;Mechanic
+1)MAKİNİST,MAKİNA USTASI2)EL SANATLARINA AİT3)MEKANİ;Mechanic
+MADALYA;Medal
+TIBBİ;Medical
+İLAÇ, TIP;Medicine
+BULUŞMAK, KARŞILAMAK;Meet
+TOPLANTI, MİTİNG;Meeting
+EZGİ, MELODİ;Melody
+KAVUN;Melon
+ERİMEK;Melt
+ÜYE;Member
+UNUTULMAYACAK;Memorable
+NOT;Memorandum
+BİR KİŞİNİN ANISINA YAPILAN YAPIT;Memorial
+EZBERLEMEK;Memorize
+HAFIZA;Memory
+ADAMLAR;Men
+TAMİR ETMEK;Mend
+ZİHİNSEL;Mental
+BAHSETMEK;Mention
+TÜCCAR;Merchant
+MERHAMET;Mercy
+SADECE,YALNIZCA;Mere
+SADECE, ANCAK;Merely
+BİRLEŞEREK KAYBOLMA, KONSOLİDASYON (Şirket, devlet);Merge
+HAKETMEK, DEĞMEK;Merit
+MUTLU;Merry
+KARGAŞALIK,DAĞINIKLIK;Mess
+MESAJ;Message
+METAL;Metal
+ÖLÇEK;Meter
+METOT;Method
+METRE;Metre
+FARELER;Mice
+ORTA;Middle
+GECE YARISI (24:00);Midnight
+1)KUVVET,KUDRET 2)BELKİ (Might be:Az ihtimalli.);Might
+MİKROFON;Mike
+1)HAFİF 2)YUMUŞAK 2)ILIK;Mild
+ASKERİ;Military
+SÜT;Milk
+1.DEĞİRMEN 2.İMALATHANE;Mill
+DARI;Millet
+MİLYONER;Millionaire
+TAKLİT ETMEK (birini);Mimic
+KIYMA (Et vb.), KIYMAK;Mince
+AKIL;Mind
+BİRİNE BAKMAK,DERT ETMEK;Mind
+1.BENİM 2.MADEN OCAĞI 3.MAYIN;Mine
+ENAZ;Minimum
+1.BAKAN 2.BÜYÜKELÇİ YARDIMCISI;Minister
+ÖNEMSİZ, UFAK, MİNÖR;Minor
+AZINLIK;Minority
+EKSİ  ( - );Minus
+1.DAKİKA 2.ÇOK KÜÇÜK 3.ZABIT;Minute
+MUCİZE;Miracle
+AYNA;Mirror
+HASİS, CİMRİ;Miser
+SEFİL;Miserable
+SEFALET;Misery
+NEREYE KOYDUĞUNU UNUTMAK;Mislay
+1.ÖZLEMEK 2.KAÇIRMAK,KAYIP;Miss
+BAYAN;Miss
+FÜZE, FIRLATILAN CİSİM;Missile
+ÖZEL BİR GÖREV İÇİN YOLCULUK,MİSYON;Mission
+HATA;Mistake
+YANLIŞ ANLAMAK;Misunderstand
+KARIŞTIRMAK, KARIŞMAK;Mix
+OYNAK,HAREKETLİ;Mobile
+MODEL (model araba,manken v.b);Model
+ILIMLI, ORTADA;Moderate
+MODERN, ÇAĞDAŞ;Modern
+ALÇAKGÖNÜLLÜ, ILIMLI;Modest
+NEM;Moisture
+1)KÖSTEBEK 2)VÜCUTTAKİ BEN;Mole
+AN;Moment
+PAZARTESİ;Monday
+PARA;Money
+MAYMUN;Monkey
+AY (takvim ayı);Month
+ANIT, ABİDE;Monument
+MİZAÇ, RUH HALİ;Mood
+AY;Moon
+AHLAK;Moral
+MORAL;Morale
+DAHA FAZLA;More
+SABAH;Morning
+İPOTEK;Mortgage
+CAMİ;Mosque
+SİVRİSİNEK;Mosquito
+YOSUN (Nemli yerlerde oluşan);Moss
+EN ÇOK;Most
+ANNE;Mother
+HAREKET, ÖNERME;Motion
+1)MOTİVLENMEK 2)GÜDÜ;Motive
+MOTOR;Motor
+DAĞ;Mountain
+FARE;Mouse
+AĞIZ;Mouth
+HAREKET ETMEK, ETTİRMEK;Move
+HAREKET;Movement
+ÇOK (miktarca);Much
+ÇAMUR;Mud
+ÇAMURLUK;Mud-Guard
+ÇARPMAK, ÇOĞALMAK;Multiply
+CİNAYET;Murder
+MIRILDANMAK,UĞULTU;Murmur
+PAZU, KAS;Muscle
+MÜZE;Museum
+MANTAR;Mushroom
+MÜZİK;Music
+MÜSLÜMAN;Muslim
+ZORUNLULUK;Must
+HARDAL;Mustard
+1)SESİZ 2)DİLSİZ;Mute
+MIRILDANMAK, KISIK SESLE SÖYLENMEK;Mutter
+MÜŞTEREK,İKİ TARAFLI (mutual friend=ortak arkadaş);Mutual
+BENİM;My
+ESRAR, BİLİNMEZLİK;Mystery
+1.TIRNAK  2.ÇİVİ;Nail
+İSİM;Name
+PEÇETE;Napkin
+ANLATMAK, SÖYLEMEK;Narrate
+DAR;Narrow
+PİS, KÖTÜ KOKULU, HOŞ OLMAYAN;Nasty
+ULUS;Nation
+ULUSAL;National
+YERLİ (her native language);Native
+DOĞAL;Natural
+DOĞA;Nature
+YARAMAZ (naughty child = yaramaz ρocuk);Naughty
+YAKIN;Near
+GEREKLİ;Necessary
+GEREKLİLİK;Necessity
+BOYUN, ENSE;Neck
+GEREKSİNİM, İHTİYAÇ;Need
+İĞNE, ŞİŞ;Needle
+LÜZUMSUZ;Needless
+İHMAL ETMEK;Neglect
+GÖRÜŞMEK,MÜZAKERE;Negotiate
+KOMŞU;Neighbour
+HİÇBİRİ;Neither
+NE O..NE ÖBÜRÜ;Neither...Nor...
+YEĞEN (erkek);Nephew
+SİNİRLİ;Nervous
+YUVA, KUŞ YUVASI;Nest
+1.AĞ  2.NET (brütün tersi);Net
+ŞEBEKE,ÇALIŞMA AĞI;Network
+HİÇBİR ZAMAN ,ASLA;Never
+BUNA RAĞMEN, HALA, AMA;Nevertheless
+YENİ;New
+HABER;News
+GAZETE;Newspaper
+EN YAKIN, BİR SONRAKİ, ERTESİ;Next
+HOŞ;Nice
+TAKILMIŞ AD, LAKAP;Nickname
+YEĞEN (kız);Niece
+GECE;Night
+KABUS;Nightmare
+SIFIR, BOŞLUK;Nil
+HAYIR;No
+SOYLU;Noble
+HİÇ KİMSE;Nobody
+GÜRÜLTÜ;Noise
+1)ADAY GÖSTERMEK(Başkan v.b) 2)ATAMAK,GÖREVLENDİRME;Nominate
+HİÇBİRİSİ;None
+SAÇMA;Nonsense
+ÖĞLE ZAMANI;Noon
+NORMAL;Normal
+KUZEY;North
+BURUN;Nose
+DEĞİL;Not
+1. NOT 2.KAĞIT PARA 3. NOTA;Note
+HİÇBİR ŞEY;Nothing
+DUYURU, DİKKATİNİ ÇEKMEK;Notice
+KÖTÜ ÜNLÜ, KÖTÜ ÜN;Notorious
+ROMAN;Novel
+KASIM;November
+ŞİMDİ;Now
+BUGÜNLERDE;Nowadays
+HİÇ BİRYER;Nowhere
+ÇIPLAK;Nude
+SIKINTI, DERT;Nuisance
+SAYI, NUMARALANDIRMAK;Number
+HEMŞİRE, HASTABAKICI;Nurse
+1.KURUYEMİŞ (fındık v.b) 2.SOMUN;Nut
+NAYLON;Nylon
+MEŞE;Oak
+KÜREK;Oar
+VAHA;Oasis
+SÖZ DİNLEMEK, İTAAT ETMEK;Obey
+İTİRAZ ETMEK;Object
+NESNE, OBJE, AMAÇ;Object
+1)ZORUNLU KILMAK 2)MİNETTAR KILMAK3)YAPMAK,SAĞLAMAK;Oblige
+GÖZLEM;Observation
+GÖZLEM YAPMAK;Observe
+TEDARİK ETMEK, SAĞLAMAK;Obtain
+AŞİKAR;Obvious
+VESİLE;Occasion
+1.MESLEK  2.İŞGAL;Occupation
+İŞGAL ETMEK, OTURMAK, KAPLAMAK, MEŞGUL ETMEK;Occupy
+OLMAK;Occur
+OKYANUS;Ocean
+EKİM (ayı );October
+TUHAF,ACAİP;Odd
+İYELİK EKİ, NIN;Of
+YOK OLMAK, EKSİLMEK;Off
+1.YASADIŞI İŞ 2.SALDIRI, OFENS;Offence
+KIZDIRMAK, İNCİTMEK (birini);Offend
+TEKLİF ETMEK;Offer
+OFİS;Office
+SUBAY, MEMUR;Officer
+RESMİ;Official
+SIK SIK;Often
+YAĞ, PETROL;Oil
+PEKİ, TAMAM;Okay (Ok)
+ESKİ, YAŞLI;Old
+ESKİ MODA;Old-Fashioned
+OMLET;Omelette
+ATLAMAK, HARİÇ BIRAKMAK;Omit
+ÜZERİNDE;On
+1.BİR KEZ 2.BİR AN ÖNCE;Once
+BİR;One
+SOĞAN;Onion
+SADECE, YALNIZCA;Only
+AÇIK, AÇMAK;Open
+ÇALIŞMAK;Operate
+1.OPERASYON  2.AMELİYAT;Operation
+OPERATÖR;Operator
+DÜŞÜNCE;Opinion
+FIRSAT;Opportunity
+ZIT,TERS;Opposite
+İYİMSER;Optimist
+SEÇME, SEÇENEK, OPSİYON;Option
+VEYA;Or
+SÖZLÜ;Oral
+1.PORTAKAL 2.TURUNCU;Orange
+YÖRÜNGE;Orbit
+BOSTAN;Orchard
+1.EMİR 2.SİPARİŞ 3.DÜZEN, SIRA;Order
+SIRADAN, NORMAL;Ordinary
+1.ORG 2.ORGAN 3.ORGANİZASYON, KURULUŞ;Organ
+ORGANİZE ETMEK;Organize
+KÖKEN, ORİJİN;Origin
+ORJİNAL, İLK, YENİ;Original
+DİĞER;Other
+1.BAŞKA TÜRLÜ  2.YOKSA,AKSİ TAKTİRDE;Otherwise
+..MELİ ..MALI EKİ;Ought
+BİZİM;Our
+DIŞARI;Out
+ANA HAT, ÖZETLEMEK;Outline
+MODASI GEÇMİŞ, ESKİ;Out-Of-Date
+ÇIKTI;Output
+DIŞARI;Outside
+OVAL;Oval
+FIRIN;Oven
+1.ÜSTÜNDE  2.BİTMEK;Over
+ÜSTESİNDEN GELMEK;Overcome
+FAZLA PİŞİRMEK, FAZLA YAPMAK;Overdo
+VADESİ GEÇMİŞ;Overdue
+GEÇMEK, SOLLAMAK;Overtake
+FAZLA MESAİ;Overtime
+FAZLA ÇALIŞMAK, AŞIRI ÇALIŞMAK;Overwork
+BORÇLU OLMAK;Owe
+BAYKUŞ;Owl
+SAHİP OLMAK;Own
+SAHİP;Owner
+BOĞA;Ox
+OKSİJEN;Oxygen
+İSTİRİDYE;Oyster
+PAKETLEMEK;Pack
+KALABALIK, BİR SÜRÜ İNSAN;Packed
+PAKET;Packet
+SAYFA;Page
+ACI, AĞRI;Pain
+AĞRILI;Painful
+BOYAMAK, BOYA;Paint
+1.RESSAM  2.BOYACI;Painter
+ÇİFT;Pair
+SARAY;Palace
+SOLUK,SOLGUN  (renk);Pale
+1)AVUÇ 2)PALMİYE AĞACI;Palm
+TAVA;Pan
+PANEL;Panel
+PANİK;Panic
+1)DON 2)PANTOLON (AmE);Pants
+1.KAĞIT 2.GAZETE 3.EVRAK, KİMLİK;Paper
+PARAŞÜT;Parachute
+RESMİ GEÇİT;Parade
+CENNET;Paradise
+PARAGRAF;Paragraph
+PARÇA;Parcel
+PARDON;Pardon
+ANA BABA;Parent
+1.PARK 2.PARK ETMEK;Park
+PARLAMENTO;Parliament
+PAPAĞAN;Parrot
+KISIM, BÖLÜM ,AYIRMAK;Part
+BAŞKALARIYLA BİRLİKTE ÇALIŞMA, OYNAMA, KATILMA;Participate
+YALNIZ, ÖZEL, TİTİZ;Particular
+1.ORTAK  2.PARTNER;Partner
+YARIM GÜN;Part-Time
+PARTİ;Party
+GEÇMEK, GEÇİRMEK;Pass
+PASAJ;Passage
+YOLCU;Passenger
+PASİF, EYLEMSİZ;Passive
+PASAPORT;Passport
+PAROLA;Password
+GEÇMİŞ;Past
+MAKARNA (Hamurdan yapılan şeyler);Pasta
+BEYAZ TUTKAL, MACUN, HAMUR;Paste
+HOŞ İYİ ZAMAN;Pastime
+PATİKA, KÜÇÜK YOL;Path
+SABIR;Patience
+1.SABIRLI 2.HASTA;Patient
+DEVRİYE;Patrol
+1)DESTEKLEYİCİ KİŞİ 2)DEVAMLI MÜŞTERİ;Patron
+MOLA, ARA;Pause
+HAYVAN PENÇESİ;Paw
+ÖDEMEK;Pay
+ÖDEME;Payment
+BEZELYE;Pea
+BARIŞ;Peace
+ŞEFTALİ;Peach
+ZİRVE, TEPE;Peak
+YER FISTIĞI;Peanut
+ARMUT;Pear
+İNCİ;Pearl
+ÇİFTÇİ, KÖYLÜ KESİM;Peasant
+GARİP;Peculiar
+PEDAL;Pedal
+YAYA GİDEN;Pedestrian
+KABUK SOYMAK (Meyve);Peel
+1.AĞIL 2.TÜKENMEZ KALEM;Pen
+CEZA;Penalty
+KURŞUN KALEM;Pencil
+ÇAKI;Penknife
+EMEKLİ MAAŞI;Pension
+HALK;People
+BİBER;Pepper
+HER;Per
+KUSURSUZ, YETKİN;Perfect
+1.ÇALIŞMAK 2.UYGULAMAK;Perform
+PERFORMANS;Performance
+PARFÜM;Perfume
+BELKİ;Perhaps
+BÜYÜK TEHLİKE;Peril
+1)ÇAĞ, DEVİR, PERİOD 2)ADET (hali);Period
+DEVAMLI,SÜREKLİ;Permanent
+İZİN;Permission
+1.İZİN VERMEK 2.İZİN KAĞIDI;Permit
+DEVAM ETMEK;Persist
+KİŞİ;Person
+KİŞİLİK;Personality
+İKNA ETMEK;Persuade
+KÖTÜMSER;Pessimist
+PETROL;Petrol
+BENZİNCİ;Petrol Station
+FİZOLOFİ;Philosophy
+TELEFON;Phone
+FOTOĞRAF;Photo
+FİZİKSEL;Physical
+PİYANO;Piano
+TOPLAMAK, SEÇMEK;Pick
+GREV GÖZCÜSÜ, FABRİKA ÖNÜNDE BEKLEME;Picket
+TURŞU;Pickle
+YANKESİCİ;Pickpocket
+PİKNİK;Picnic
+RESİM;Picture
+PASTA, BÖREK;Pie
+PARÇA;Piece
+DOMUZ;Pig
+GÜVERCİN;Pigeon
+ÜST ÜSTE KOYMAK;Pile
+HAP;Pill
+YASTIK;Pillow
+YASTIK KILIFI;Pillowcase
+PİLOT;Pilot
+TOPLU İĞNE;Pin
+1)KERPETEN 2)KISKAÇ (Yengecin v.b.);Pincers
+ÇİMDİKLEMEK, SIKIŞTIRMAK (Kapıya vb.);Pinch
+ÇAM;Pine
+ANANAS;Pineapple
+PEMBE;Pink
+ÖNCÜ;Pioneer
+1.BORU 2.PİPO 3.FLÜT;Pipe
+TABANCA;Pistol
+ACIMAK (What a pity : Ne yazık);Pity
+ACIMAK (What a pity : Ne yazık);Pity
+YER, YERLEŞTİRMEK;Place
+AÇIK, ORTADA, DÜZ;Plain
+PLAN, PLANLAMAK;Plan
+UÇAK;Plane
+1.BİTKİ, BİTKİ EKMEK  2.FABRİKA, TESİS;Plant
+EKİLİ YER;Plantation
+PLASTİK;Plastic
+TABAK;Plate
+1)PLATFORM, YÜKSEKÇE YER, KÜRSÜ 2)PERON;Platform
+1.OYNAMAK 2.ÇALMAK (bir müzik aletini);Play
+OYUNCU, ÇALAN;Player
+OYUN SAHASI;Playground
+KEYİFLİ, ZEVKLİ;Pleasant
+1.LÜTFEN  2.MUTLANDIRMAK;Please
+ZEVK;Pleasure
+ÇOK SAYIDA;Plenty
+TOPRAĞI SÜRMEK;Plough
+FİŞ, BANYO TIKACI;Plug
+1)ERİK 2)BONBON SEKERİ;Plum
+MUSLUK TAMİRCİSİ;Plumber
+ARTI;Plus
+CEP;Pocket
+ŞİİR;Poem
+ŞAİR, OZAN;Poet
+ŞİİRLER, ŞAİRLİK, ŞİİRLE İLGİLİ;Poetry
+NOKTA, UÇ;Point
+ZEHİR;Poison
+1)KUTUP 2)DİREK, KAZIK;Pole
+POLİS;Police
+1.POLİÇE  2.YÖNETİM İLKESİ, POLİTİKA;Policy
+PARLATMAK;Polish
+KİBAR;Polite
+POLİTİK;Political
+POLİTİKACI, POLİTİKAYLA UĞRAŞAN;Politician
+POLİTİK;Politics
+HAVUZ;Pool
+1.YOKSUL 2.ZAVALLI;Poor
+NÜFUS;Population
+PORSELEN;Porcelain
+DOMUZ ETİ;Pork
+LİMAN;Port
+1)HAMMAL 2)KAPICI;Porter
+DURUM, KONUM;Position
+1.EMİN, KESİN  2.OLUMLU;Positive
+SAHİP OLMAK;Possess
+SAHİPLİK;Possession
+OLASILIK;Possibility
+OLASI, MÜMKÜN;Possible
+1.POSTA  2.İŞARET  3.DEVRİYE GEZMEK (askerde);Post
+POSTA ÜCRETİ;Postage
+ERTELEMEK;Postpone
+TENCERE;Pot
+PATATES;Potato
+DÖKMEK, AKITMAK;Pour
+FAKİRLİK;Poverty
+TOZ, PUDRA;Powder
+GÜÇ;Power
+VEKALETNAME;Power Of Attorney
+GÜÇLÜ;Powerful
+1)ELEKTRİK SANTRALI 2)OLAĞANÜSTÜ ENERJİYE SAHİP ŞEY;Power-House
+PRATİK;Practical
+ALIŞTIRMA;Practice
+ALIŞTIRMA YAPMAK;Practise
+ÖVMEK;Praise
+DUA ETMEK;Pray
+VAAZ VERMEK;Preach
+KIYMETLİ, ÇOK SEVİLEN;Precious
+KESİNLİKLE, TAM MANASIYLA;Precisely
+TAHMİN ETMEK;Predict
+YEĞLEMEK, TERCİH ETMEK;Prefer
+HAMİLE;Pregnant
+ÖNYARGI;Prejudice
+HAZIRLIK;Preparation
+HAZIRLAMAK;Prepare
+REÇETE;Prescription
+VARLIK(bir yerde varlığı );Presence
+BURADA, MEVCUT, ŞİMDİKİ, ARMAĞAN;Present
+SUNMAK;Present
+KORUMAK,KONSERVE YAPMAK;Preserve
+BAŞKAN;President
+1.BASKI 2.ÜTÜLEME 3.BASIN;Press
+BASKI YAPMAK, BASMAK;Press
+BASINÇ, BASKI;Pressure
+GİBİ GÖZÜKMEK, TAKLİT YAPMAK;Pretend
+1.SEVİMLİ  2.OLDUKÇA;Pretty
+KORUMAK;Prevent
+ÖNCEKİ;Previous
+FİYAT;Price
+ONUR,GURUR;Pride
+RAHİP;Priest
+ANA OLARAK;Primarily
+1)ÖNCELERİ,ESKİDEN 2)ANA,BAŞ-Primary cause 3)İLK OKU;Primary
+1)İLKEL 2)BASİT, MODASI GEÇMİŞ;Primitive
+PRENS;Prince
+1.EN ÖNEMLİ 2.PRENSİP  3.ANA PARA (borçta);Principal
+1.BASMAK(harfler vs.) 2.İZ;Print
+ÖNCELİK;Priority
+HAPİS;Prison
+1.MAHKUM 2.ESİR;Prisoner
+ÖZEL;Private
+İMTİYAZ;Privilege
+ÖDÜL;Prize
+OLASI;Probable
+SORUN, PROBLEM;Problem
+İŞLEM;Process
+ÜRETMEK;Produce
+ÜRÜN;Product
+ÜRETİM;Production
+MESLEK;Profession
+KAR;Profit
+PROGRAM;Programme
+GELİŞME;Progress
+YASAKLAMAK;Prohibit
+SÖZ VERMEK;Promise
+1)İLERLEME,TERFİ ETME 2)TANITIM(Ürün vb.Satış iρin);Promote
+TERFİ;Promotion
+OKUNUŞUNU ÇIKARTMAK, TELAFFUZ ETMEK;Pronounce
+KANIT;Proof
+1)İLERİYE YÜRÜTEN ŞEY 2)VAPUR VEYA UÇAK PERVANESİ;Propeller
+UYGUN, DOĞRU;Proper
+MAL, MÜLK (bir işinin sahip olduğu), EŞYA;Property
+ORANTI;Proportion
+PLAN, ÖNERİ;Proposal
+1.PLANINI AÇIKLAMAK 2.EVLİLİK TEKLİF ETMEK;Propose
+TAKİP ETMEK, KAVUŞTURMAK, DAVA AÇMAK, SUÇLAMAK;Prosecute
+FUHUŞ;Prostitution
+KORUMAK;Protect
+PROTESTO;Protest
+GURURLU;Proud
+KANITLAMAK;Prove
+ATA SÖZÜ;Proverb
+SAĞLAMAK, TEDARİK ETMEK;Provide
+KIŞKIRTMA;Provocation
+KIŞKIRTMAK, KIZDIRMAYA NEDEN OLMAK;Provoke
+PAB, BİRAHANE;Pub
+HALK  (puplıc sector=devlet sektörü );Public
+İLAN, REKLAM, YAYINLAMA;Publicity
+BASIM (bir yayını);Publish
+ÇEKMEK;Pull
+ARACI DURDURMAK;Pull Up
+1.KAZAK  2.ARABAYI DURDURMAK, KENARA ÇEKMEK;Pullover
+NABIZ, VURUŞ;Pulse
+POMPA;Pump
+KABAK;Pumpkin
+1.DELMEK 2.YUMRUKLAMAK;Punch
+TAM ZAMANINDA;Punctual
+CEZALANDIRMAK;Punish
+1.ÖĞRENCİ 2.GÖZBEBEĞİ;Pupil
+KUKLA;Puppet
+GENÇ KÖPEK;Puppy
+SATIN ALMAK;Purchase
+SAF, TEMİZ;Pure
+MOR;Purple
+AMAÇ;Purpose
+KÜÇÜK EL ÇANTASI;Purse
+İTMEK;Push
+KOYMAK;Put
+BULMACA, PROBLEM;Puzzle
+PİJAMA;Pyjamas
+PİRAMİT;Pyramid
+EHLİYETLİ, KALİFİYE;Qualified
+NİTELİK, KALİTE;Quality
+MİKTAR;Quantity
+TARTIŞMAK, ATIŞMAK;Quarrel
+ÇEYREK;Quarter
+KRALİÇE;Queen
+SORU, SORMAK;Question
+SIRA, KUYRUK;Queue
+ÇABUK;Quick
+SESSİZ, SAKİN, HUZURLU;Quiet
+HEMEN HEMEN, YAKLAŞIK OLARAK;Quite
+KÜÇÜK TEST;Quiz
+KOTA, KONTENJAN;Quota
+AKTARMA,  SÖYLEME;Quote
+TAVŞAN;Rabbit
+IRK;Race
+YARIŞMAK;Race
+RAKET;Racket
+RADAR;Radar
+RADYATÖR;Radiator
+RADYO;Radio
+RAY;Rail
+BAHCE PARMAKLIKLARI;Railing
+TREN YOLU;Railway
+YAĞMUR;Rain
+YAĞMURLUK;Raincoat
+1.YÜKSELTMEK 2.ZAM YAPMAK 3.YETİŞTİRMEK;Raise
+1)KOÇ 2)VURMAK, TOSLAMAK;Ram
+ARALIK, ALAN;Range
+1.SIRA 2.RÜTBE 3.SOSYAL SINIF;Rank
+ÇABUK, HIZLI;Rapid
+NADİR;Rare
+1)HIZLI, ACELE 2)ÇİL;Rash
+SIÇAN;Rat
+1.HIZ  2. ORAN;Rate
+EPEY, ÇOK DEĞİL;Rather
+1.HAM 2.ÇİĞ;Raw
+USTURA, TRAŞ MAKİNESİ;Razor
+ERİŞMEK;Reach
+OKUMAK;Read
+HAZIR;Ready
+FARK ETMEK (idrak etmek );Realize
+GERÇEKTEN;Really
+1)YETİŞTİRMEK(insan,kuş,bitki) 2)ARKA,ARKA TARAF;Rear
+1.NEDEN  2.AKIL;Reason
+MAKUL;Reasonable
+ANIMSAMAK;Recall
+MAKBUZ;Receipt
+1.ALMAK 2.KARŞILAMAK;Receive
+YAKIN ZAMANDA OLAN;Recent
+1.RESMİ DAVET 2.RESEPSİYON;Reception
+DURAKLAMA, GERİLEME, EKONOMİDE DURGUNLUK;Recession
+YEMEK TARİFİ;Recipe
+TANIMAK;Recognize
+HATIRLAMAK;Recollect
+TAVSİYE ETMEK;Recommend
+UZLAŞMA, ANLAŞMA YAPMAK;Reconcile
+UZLAŞMA;Reconciliation
+1.KAYIT 2.PLAK 3.REKOR;Record
+1.İYİLEŞMEK 2.(kaybedilen bir şeyi) BULMAK;Recover
+KIRMIZI, KIZIL;Red
+AZALTMAK;Reduce
+HAKEM;Referee
+REFERANDUM, HALK OYLAMASI;Referendum
+DOLDURMAK;Refill
+YANSITMAK;Reflect
+SANDOVİÇ, TOST, İÇECEK (Gar,istasyon gibi yerlerde);Refreshments
+BUZDOLABI;Refrigerator
+REFÜJ, GÜVENLİ YER;Refuge
+TEHLİKEDEN KAÇAN, KAZAZEDE;Refugee
+REDDETMEK;Refuse
+1.DİKKAT 2.DÜŞÜNCE 3.BAKMAK 4.İNANMAK;Regard
+BÖLGE;Region
+1)KÜTÜK,SİCİL,KAYIT 2)REGISTER POST=TAAHÜTLÜ MEKTUP;Register
+ÜZGÜN OLMAK, PİŞMAN OLMAK;Regret
+DÜZENLİ, OLAĞAN;Regular
+YÖNETMELİK, YASA;Regulation
+KABUL ETMEMEK;Reject
+ANLATMAK, NAKLETMEK (formal tell);Relate
+1.İLİŞKİ 2.AKRABALIK;Relation
+İLİŞKİ, İLETİŞİM;Relationship
+1.AKRABA 2.GÖRECELİ;Relative
+RAHATLAMAK, GEVŞEMEK;Relax
+SERBEST BIRAKMAK, GEVŞETMEK;Release
+BAĞINTILI, KONUYLA İLİŞKİLİ;Relevant
+GÜVENİLİR;Reliable
+RAHATLAMA;Relief
+UZAKLAŞTIRMAK (ağrıyı v.s.);Relieve
+DİN;Religion
+İSTEKSİZ VE BUNDAN DOLAYI İŞİ YAPMAYI AĞIRDAN ALMAK;Reluctant
+1.GERİYE KALMAK 2.YERİNDE DURMAK;Remain
+BELİRTMEK, AÇIKLAMA;Remark
+DİKKATE DEĞER;Remarkable
+ÇARE;Remedy
+UNUTMAMAK, ANIMSAMAK;Remember
+ANIMSATMAK;Remind
+1)AFFETMEK,BAĞIŞLAMAK2)POSTAYLA PARA YOLLAMA-Havale;Remit
+HAVELE (Para);Remittance
+UZAK;Remote
+UZAKLAŞTIRMAK;Remove
+KİRALAMAK;Rent
+ONARMAK;Repair
+GERİ ÖDEMEK;Repay
+TEKRARLAMAK;Repeat
+YENİDEN YERLEŞTİRMEK;Replace
+YERLEŞTİRME;Replacement
+YANITLAMAK, YANIT;Reply
+RAPOR,  RAPOR ETMEK;Report
+TEMSİL ETMEK;Represent
+TEMSİLCİ;Representative
+CUMHURİYET;Republic
+İTİBAR,ÜN;Reputation
+RİCA ETMEK, RİCA;Request
+GEREKSİNMEK;Require
+KURTARMAK;Rescue
+ARAŞTIRMA;Research
+HOŞLANMAMAK, KIZMAK;Resent
+1.REZERV 2.REZERVASYON YAPTIRMAK;Reserve
+OTURMAK, İKAMET ETMEK;Reside
+BÖLGEDE YAŞAYAN, OTURAN;Resident
+İSTİFA ETMEK;Resign
+KARŞI KOYMAK;Resist
+SAYGI DUYMAK;Respect
+SAYGIDEĞER;Respectable
+CEVAP VERMEK;Respond
+SORUMLU;Responsible
+DİNLENMEK;Rest
+GERİYE KALAN;Rest
+RESTORAN, LOKANTA;Restaurant
+1)GERİ VERME 2)YENİDEN KULLANIMA AÇMA;Restore
+SINIRLAMAK;Restrict
+SONUÇ;Result
+YENİDEN BAŞLAMAK;Resume
+PAREKENDE, PAREKENDE SATIŞ;Retail
+İNTİKAM, TEPKİ, MİSİLLEME;Retaliation
+EMEKLİ OLMAK;Retire
+GERİ DÖNMEK;Return
+ÖÇ ALMAK, İNTİKAM;Revenge
+GELİR;Revenue
+TERS, ARKA (reverse gear = geri vites);Reverse
+TEKRAR GÖZDEN GEÇİRİP DÜZELTMEK;Revise
+DEVRİM;Revolution
+ÖDÜL;Reward
+KABURGA;Rib
+KURDELA, ŞERİT;Ribbon
+PİRİNÇ;Rice
+ZENGİN;Rich
+ATMAK, FIRLATMAK (To get rid of:başından atmak);Rid
+ATA,BİSİKLETE BİNMEK;Ride
+GÜLÜNÇ, SAÇMA;Ridiculous
+TÜFEK;Rifle
+1.HAK 2.DOĞRU,HAKLI 3.SAĞ TARAF;Right
+YÜZÜK, HALKA;Ring
+ÇALMAK(zil çalması), TELEFON ETMEK;Ring
+OLGUN, HAM DEĞİL;Ripe
+YÜKSELMEK;Rise
+RİSK;Risk
+RİSKLİ;Risky
+NEHİR;River
+YOL;Road
+KÜKREME;Roar
+ROSTO, FIRINDA PİŞİRMEK;Roast
+1.SOYGUN YAPMAK;Rob
+1.KAYA  2.SALLANMAK;Rock
+ROKET;Rocket
+ROL;Role
+YUVARLANMAK;Roll
+ÇATI;Roof
+ODA;Room
+KÖK;Root
+HALAT, İP;Rope
+1.GÜL 2.PEMBE;Rose
+KABA;Rough
+YUVARLAK;Round
+1)DOLAMBAÇLI,DOLAYLI 2)ADA-Trafikte 3)YAKLAŞIK OLARA;Roundabout
+ROTA;Route
+1.SIRA 2.GÜRÜLTÜ;Row
+KÜREK ÇEKMEK;Row
+KRALİYETE AİT;Royal
+SÜRMEK, SÜRTMEK, OVMAK;Rub
+1)LASTİK, KAUÇUK 2)SİLGİ;Rubber
+1.ÇÖP 2.SAÇMA;Rubbish
+KABA;Rude
+KÜÇÜK HALI, KİLİM;Rug
+HARABE, YIKIM, MAHVETME;Ruin
+1.YÖNETMEK 2.KURAL;Rule
+1.KURAL KOYUCU, YÖNETİCİ  2.CETVEL;Ruler
+GÜRLEMEK;Rumble
+1.KOŞMAK 2.ÇALIŞTIRMAK (fabrika,şirket v.b);Run
+1.KAÇAK 2.KONTROL DIŞI (runaway increase in prices);Runaway
+ÇABUK DAVRANMAK;Rush
+PAS;Rust
+SABOTAJ;Sabotage
+ÇUVAL;Sack
+KOVMAK, İSTİFAYA ZORLAMAK;Sack
+KURBAN, FEDAKARLIK;Sacrifice
+ÜZGÜN, MUTSUZ;Sad
+EĞER;Saddle
+SAFARİ, HAYVAN AVLAMA YOLCULUĞU;Safari
+1.GÜVENLİ, EMİN 2.KASA;Safe
+EMNİYET KEMERİ;Safety-Belt
+ÇENGELLİ İĞNE;Safety-Pin
+DENİZ YOLCULUĞU;Sail
+DENİZCİ;Sailor
+HATIR, UĞRUNA;Sake
+SALATA;Salad
+MAAŞ;Salary
+SATIŞ;Sale
+1) SOM BALIĞI 2) SARIMSI, PEMBE RENK;Salmon
+1)SALOON CAR = NORMAL ARABA 2)SALON 3)GEMİ SALONU;Saloon
+TUZ;Salt
+SELAM VERMEK (Askerυ);Salute
+AYNI, FARKSIZ;Same
+ÖRNEK, NUMUNE;Sample
+KUM;Sand
+SANDALET;Sandal
+1) ZIMPARA KAĞIDI 2) ZIMPARALAMAK;Sandpaper
+SANDVİÇ;Sandwich
+SARDALYA;Sardine
+UYDU;Satellite
+SATEN, ATLAS;Satin
+TATMİN ETMEK;Satisfy
+CUMARTESİ;Saturday
+SALÇA, SOS;Sauce
+TAVA;Saucepan
+BARDAK ALTLIĞI;Saucer
+SOSİS;Sausage
+VAHŞİ,YABANİ,YIRTICI;Savage
+1.KORUMAK  2.TASARRUF ETMEK;Save
+TAT, LEZZET, ÇEŞNİ;Savour
+1)TESTERE 2)GÖRMEK (See'nin past tens'i);Saw
+SAKSAFON;Saxophone
+DEMEK, SÖYLEMEK;Say
+1.ÖLÇEK 2.TART;Scale
+SKANDAL;Scandal
+KIT;Scarce
+KORKUTMAK;Scare
+ATKI;Scarf
+OLAYIN GEÇTİĞİ YER, MANZARA, TİYATRONUN BİR SAHNESİ;Scene
+PLAN, PROJE;Scheme
+BURS;Scholarship
+OKUL;School
+BİLİM;Science
+MAKAS;Scissors
+BİR ÇEŞİT ÜZÜMLÜ EKMEK VE TEREYAĞ;Scone
+SKOR;Score
+AKREP;Scorpion
+1)ÇIRPMAK 2)HIZLI HAREKET VEYA TIRMANIŞ;Scramble
+KAZIMAK, SÜRTMEK, ARTIK, PİSLİK;Scrape
+1.TIRMALAMAK 2.KAŞIMAK;Scratch
+ÇIĞLIK;Scream
+1.EKRAN 2.PERDE, PERDELEMEK;Screen
+VİDALAMAK, VİDA, KAZIKLAMAK;Screw
+1)ENSE 2)KİRLİ,PASAKLI İNSAN;Scruff
+DENİZ;Sea
+1)MÜHÜRLEMEK, (Kutu,mektup,kapı vb.) 2)FOK BALIĞI;Seal
+ARAŞTIRMAK;Search
+DENİZ KIYISI;Seashore
+DENİZ KENARI;Seaside
+MEVSİM, SEZON;Season
+OTURULACAK YER;Seat
+EMNİYET KEMERİ;Seat-Belt
+1.SANİYE  2.İKİNCİ;Second
+İKİNCİ DERECE, KALİTE;Second-Rate
+GİZ, SIR;Secret
+SEKRETER;Secretary
+KISIM, BÖLÜM;Section
+EMNİYETLİ, SAĞLAM;Secure
+1.GÖRMEK 2.FARK ETMEK 3.ANLAMAK;See
+İMTİHAN ETMEK, ÇEK ETMEK;See Over
+1.TOHUM 2.ÇEKİRDEK;Seed
+ARAMAK, SORUŞTURMAK;Seek
+GÖRÜNMEK;Seem
+DİLİM (Pasta, portakal), DİLİMLEMEK, BÖLMEK;Segment
+KAPMAK, HIZLA BİR ŞEYİ ELE GEÇİRMEK;Seize
+ARA SIRA, SIK DEĞİL;Seldom
+SEÇMEK;Select
+SEÇİM;Selection
+BENCİL;Selfish
+SATMAK;Sell
+YARI;Semi
+SENATO;Senate
+GÖNDERMEK;Send
+YAŞÇA VEYA KIDEMCE BÜYÜK;Senior
+DUYU;Sense
+1.APTALCA 2.BİLİNÇSİZ;Senseless
+AKILLI;Sensible
+DUYARLI, ALINGAN;Sensitive
+1.CÜMLE 2.HÜKÜM GİYME,MAHKUM OLMA (A Life sentence);Sentence
+AYRI, AYIRMAK;Separate
+EYLÜL;September
+ÇAVUŞ;Sergeant
+SERİ (T.V ,radyo,hikaye v.b );Serial
+CİDDİ;Serious
+VAAZ;Sermon
+HİZMETÇİ;Servant
+1.HİZMET ETMEK 2.SERVİS YAPMAK;Serve
+SERVİS;Service
+PEÇETE;Serviette
+AYARLAMAK, YERLEŞTİRMEK, HAZIRLAMAK;Set
+t  SEYAHATE BAŞLAMK, YOLA ÇIKMAK;Set Off, Out
+ATAK;Set On
+1.DURUP DİNLENMEK 2.ALIŞMAK 3.YERLEŞMEK;Settle
+ANLAŞMA;Settlement
+BİR KAÇ;Several
+SERT, CİDDİ;Severe
+DİKİŞ DİKMEK;Sew
+CİNSİYET, CİNS;Sex
+GÖLGE, GÖLGELEMEK;Shade
+HARANLIK, GÖLGE;Shadow
+İZLEMEK (gizlice);Shadow
+SARSMAK;Shake
+SIĞ;Shallow
+UTANÇ;Shame
+ŞAMPUAN, BAŞ YIKAMAK;Shampoo
+ŞEKİL, FORM;Shape
+PAYLAŞTIRMAK, PAYLAŞMAK, PAY;Share
+KÖPEK BALIĞI;Shark
+1.KESKİN 2.TAM TAMINA 3.ZEKİ;Sharp
+KESKİN NİŞANCI;Sharp Shooter
+TIRAŞ;Shave
+KOYUN, KOYUNLAR;Sheep
+1.ÇARŞAF 2.İNCE TABAKA;Sheet
+RAF;Shelf
+1.KABUK 2.BOMBALAMAK;Shell
+SIĞINMAK;Shelter
+KALKAN, KILIF;Shield
+1)DEĞİŞTİRME 2)VARDİYE;Shift
+PARLAMAK, PARLATMAK;Shine
+GEMİ, GEMİYLE YOLLAMAK;Ship
+GÖMLEK;Shirt
+ŞOK, ŞOK ETMEK;Shock
+AYAKKABI;Shoe
+AYAKKABI BAĞI;Shoelace
+1.ATEŞ ETME,ŞUT ATMA 2.FİLM ÇEKME 3.TOMURCUK;Shoot
+İMHA ETMEK, HAYIR CEVABI, OLUMSUZ;Shoot Down
+DÜKKAN, ALIŞVERİŞ YAPMAK;Shop
+ALIŞVERİŞ;Shopping
+KIYI;Shore
+1.KISA  2.ANİDEN;Short
+KESTİRME;Short Cut
+YOKLUK, KITLIK;Shortage
+1.KISA BİR ZAMAN SONRA 2.KISACA;Shortly
+ATIŞ;Shot
+OMUZ;Shoulder
+BAĞIRMAK;Shout
+GÖSTERMEK, GÖSTERİ;Show
+1.DUŞ, DUŞ ALMAK 2.SAĞANAK YAĞMUR;Shower
+ÇEKMEK, KÜÇÜLMEK;Shrink
+KAPATMAK (kapı,pencere  v.b ) SHUT UP=SUS;Shut
+UTANGAÇ;Shy
+HASTA;Sick
+1.KENAR,YAN,TARAF SIDEEFFECT=YAN ETKİ 2.TARAF TUTMAK;Side
+DERİN NEFES ALMAK;Sigh
+GÖRÜŞ;Sight
+1.İŞARET 2.İMZALAMAK;Sign
+SİNYAL VERMEK, SİNYAL;Signal
+İMZA;Signature
+MANALI, ÖNEMLİ;Significant
+İŞARET DİREĞİ;Signpost
+1.SESSİZLİK 2.SUSTURMAK;Silence
+SESSİZ, SAKİN;Silent
+İPEK;Silk
+BUDALA, APTAL;Silly
+SİLO, DEPO;Silo
+BASİTLEŞTİRMEK;Simplify
+GÜNAH;Sin
+ŞİMDİYE KADAR;Since
+1.'...DEN BERİ 2.ÇÜNKÜ;Since
+İÇTEN, SAMİMİ, SAHTE OLMAYAN;Sincere
+ŞARKI SÖYLEMEK;Sing
+1.TEK 2.BEKAR 3.TEK KİŞİLİK;Single
+ACAİP, TEK, EŞSİZ;Singular
+1.BATMAK 2.EVYE;Sink
+EFENDİ;Sir
+SİREN;Siren
+1.KIZ KARDEŞ 2.HEMŞİRE 3.RAHİBE;Sister
+OTURMAK;Sit
+DURUM;Situation
+BÜYÜKLÜK;Size
+BUZ PATENİ, PATEN AYAKKABISI;Skate
+KAY KAY;Skateboard
+İSKELET;Skeleton
+KAYAK, KAYAK YAPMAK;Ski
+YETENEK;Skill
+KÖPÜK, YAĞINI ALMAK (Süt, yoğurt), ANA FİKRİ ALMAK;Skim
+DERİ;Skin
+ETEK;Skirt
+KAFATASI;Skull
+GÖKYÜZÜ;Sky
+ARGO;Slang
+KÖLE;Slave
+UYUMAK, UYKU;Sleep
+UYKULU, SAKİN;Sleepy
+ELBİSE KOLU,SLEEVELESS = KOLSUZ (elbise,bluz v.b);Sleeve
+DİLİM, DİLİMLEMEK;Slice
+KAYDIRAK (parkta), KAYDIRMAK;Slide
+DİA, SLAYT;Slide
+ÖNEMSİZ, KÜÇÜK;Slight
+İNCE, ZAYIF;Slim
+ZAYIFLAMAYA ÇALIŞMAK;Slim
+YUVARLANMAK, KAYMAK DÜŞMEK;Slip
+TERLİK;Slipper
+EĞİM;Slope
+UZUN, DÜZ DELİK, BOŞLUK, JETON KOYMA YERİ vb.;Slot
+YAVAŞ, YAVAŞLAMAK;Slow
+KÜÇÜK, UFAK;Small
+1)AKILLI 2)AÇIKGÖZ 3)ŞIK;Smart
+ÇARPIP KIRMAK;Smash
+KOKU, KOKLAMAK;Smell
+GÜLÜMSEMEK;Smile
+1.TÜTÜN İÇMEK (sigara vb.) 2.TÜTMEK 3.DUMAN;Smoke
+DÜZGÜN, YUMUŞAK;Smooth
+KAÇAKÇILIK (Gümrük,iρki,esrar v.b.);Smuggle
+KÜÇÜK, HIZLI YENİLEN YEMEK;Snack
+PÜRÜZ;Snag
+SÜMÜKLÜBÖCEK;Snail
+YILAN;Snake
+HAPŞIRMAK;Sneeze
+BURNUNU ÇEKMEK;Sniff
+HORLAMAK;Snore
+KAR;Snow
+KÜÇÜMSEMEK,HAKİR GÖRMEK;Snub
+1.ÖYLEYSE, BU YÜZDEN 2.BU ŞEKİLDE 3.ÇOK;So
+ŞİMDİYE KADAR (=Up to now);So Far
+ISLATMAK;Soak
+SABUN;Soap
+FUTBOL;Soccer
+SOSYAL;Social
+SOSYETE, ÇEVRE, TOPLUM;Society
+1)ÇORAP 2)VURMAK,KIRMAK 3)PUT A SOCK IN IT = SUSMAK;Sock
+SOKET, PRİZ;Socket
+DİVAN , SOFA;Sofa
+YUMUŞAK;Soft
+TOPRAK;Soil
+ASKER;Soldier
+1.CİDDİ 2.BAYILTICI;Solemn
+KATI, SERT;Solid
+DAYANIŞMA;Solidarity
+ÇÖZÜM BULMAK, ÇÖZMEK;Solve
+1.BAZI, BİRKAÇ 2.YAKLAŞIK;Some
+BİRİSİ;Somebody
+BİRİ;Someone
+BAZEN;Sometimes
+BİR YER;Somewhere
+ERKEK ÇOCUK, OĞUL;Son
+ŞARKI;Song
+YAKINDA (zaman açısından);Soon
+İNCELİKLİ SOSYAL HAYATTAN BİLGİSİOLAN,UKALA,KARIŞIK;Sophisticated
+AĞRI VERİCİ;Sore
+ÜZÜNTÜ;Sorrow
+ÜZGÜN;Sorry
+ÇEŞİT;Sort
+SIRALAMAK;Sort
+RUH;Soul
+1.SES 2.MANTIKLI 3.TOPLAM;Sound
+GİBİ GELMEK;Sound
+ÇORBA;Soup
+EKŞİ;Sour
+KAYNAK;Source
+GÜNEY;South
+HATIRA;Souvenir
+TOPRAĞA EKMEK;Sow
+1.UZAY 2.BOŞLUK 3.YER;Space
+1.MAÇA (oyun kartlarında) 2.KÜREK;Spade
+1) İKİ LİMİT ARASINDAKİ ŞEY, ZAMAN VB. 2) KARIŞ;Span
+SOMUN SIKMA ALETİ(Adjustable spanner=İngiliz anahtar;Spanner
+EKSTRA, FAZLA, BOŞ, YEDEK;Spare
+KONUŞMAK;Speak
+1.ÖZEL 2.EN İYİ;Special
+GÖRÜLMEYE DEĞER;Spectacular
+İZLEYİCİ (Maρ vb.);Spectator
+KONUŞMA;Speech
+HIZ, HIZLI GİTMEK;Speed
+HIZÖLÇER;Speedometer
+1.HARFLERİ SÖYLEMEK  2.BÜYÜLÜ SÖZCÜKLER;Spell
+PARA HARCAMAK, HARCAMAK;Spend
+BAHARAT;Spice
+ÖRÜMCEK;Spider
+DÖKMEK,SAÇMAK (Sıvı);Spill
+SPİRAL;Spiral
+1.RUH, RUHSAL DURUM, 2.ALKOLLÜ İÇKİ 3.İSPİRTO;Spirit
+TÜKÜRMEK;Spit
+1.RAĞMEN 2.BİRİSİNE ZARAR VERME İSTEĞİ;Spite
+SIÇRATMA;Splash
+NEFİS, HARİKA;Splendid
+İKİYE BÖLMEK;Split
+1.ZARAR VERMEK 2.ŞIMARTMAK;Spoil
+KAŞIK;Spoon
+SPOR;Sport
+1.KÜÇÜK YUVARLAK İŞARET 2.BEN (ciltteki) 3.LEKE;Spot
+1.LEKELEMEK  2.TANIMAK,AYIRMAK;Spot
+YAYILMAK, YAYMAK;Spread
+1.İLKBAHAR 2.YAY 3.ÜSTÜNE ATLAMAK 4.PINAR;Spring
+CASUS;Spy
+KARE;Square
+1)BİR ÇEŞİT OYUN 2)SIKIŞMAK;Squash
+SIKIŞMAK, SIKIŞTIRMAK, SIKMAK;Squeeze
+DENGELEME,SAPTAMA;Stabilize
+1)AHIR 2)İSTİKRARLI (Stable goverment);Stable
+STADYUM;Stadium
+ELEMAN, MEMUR;Staff
+1.EVRE SAFRA 2.SAHNE;Stage
+LEKELEMEK;Stain
+MERDİVEN;Stair
+1)KÜÇÜK DÜKKAN, TEZGAH 2)VAKİT KAZANMA;Stall
+PUL, DAMGA, DAMGALAMAK;Stamp
+AYAKLA BASMAK, EZMEK;Stamp
+1.AYAKTA DURMAK,BULUNMAK 2.STAND IN=DUBLÖRLÜK YAPMAK;Stand
+STANDART;Standard
+ZIMBA (Tel);Stapler
+YILDIZ;Star
+UZUN SÜRE BAKMAK;Stare
+BAŞLAMAK, BAŞLANGIÇ;Start
+1.DEVLET 2.DURUM;State
+SÖYLEMEK VEYA YAZMAK(bir şeyi);State
+İSTASYON, DURAK;Station
+KIRTASİYE;Stationery
+HEYKEL;Statue
+KALMAK;Stay
+SABİT;Steady
+BONFİLE;Steak
+ÇALMAK;Steal
+BUHAR;Steam
+1)ÇELİK 2)BÜYÜK GÜÇ;Steel
+1)HIZLI YÜKSELME veya DÜŞME, GENİŞ AÇI 2)ÇOK FAZLA;Steep
+DİDON, YÖNLENDİRMEK (bisiklet,motor,sandal,vs.);Steer
+1.ADIM, ADIM ATMAK  2.ÜVEY;Step
+ÜVEY ÇOCUK;Step Child
+1)AMELİYATLA KISIR ETMEK 2)BAKTERİ;Sterile
+KISIRLAŞTIRMA, MİKROPLARDAN ARITMA;Sterilize
+GÖĞÜS DİNLEME CİHAZI, STETESKOP;Stethoscope
+1) ERKEK HOSTES 2) KAHYA (çiflik vb.);Steward
+SOPA, BASTON;Stick
+YAPIŞTIRMAK, DEĞDİRMEK, YAPIŞMAK;Stick
+KOLAY BÜKÜLMEYEN, SERT;Stiff
+1.HAREKETSİZ, SAKİN  2.HALA;Still
+1.KARIŞTIRMAK (çay v.b)  2.HAREKET ETTİRMEK;Stir
+1.STOK, STOK YAPMAK 2.HİSSE SENEDİ;Stock
+HİSSE SENEDİ;Stock Certificate
+KADIN ÇORABI;Stocking
+MİDE;Stomach
+1.TAŞ  2.MEYVE ÇEKİRDEĞİ  3.(6.3)Kg.;Stone
+TABURE;Stool
+STOP, DURMAK, NOKTA, DURAK;Stop
+DÜKKAN, DEPOLAMAK;Store
+FIRTINA;Storm
+ÖYKÜ ,HİKAYE;Story
+SOBA;Stove
+DÜZGÜN, EN KISA YOLDAN;Straight
+GERMEK, SÜZMEK, İNCİLTMEK, ÇOK GÜÇ, ZOR;Strain
+SÜZGEÇ;Strainer
+GARİP, TUHAF;Strange
+TUTACAK, ASKI (Elbise, Ayakkabı);Strap
+1.SAMAN  2.KAMIŞ (bardak için v.b)  3.HASIR;Straw
+ÇİLEK;Strawberry
+IRMAK;Stream
+CADDE;Street
+GÜÇ, KUVVET;Strength
+BASTIRMAK(üzerine basa basa konuşmak), STRES;Stress
+1.GERİNMEK,GERMEK 2.BİR KEREDE 3.TOPRAK PARÇASI;Stretch
+SEDYE;Stretcher
+KATI (katı kuralları olan);Strict
+1.GREV YAPMAK, GREV  2.VURMAK;Strike
+İP,TEL;String
+SOYMAK, SOYUNMAK;Strip
+1.ŞERİT,ÇİZGİ  2.KIRBAÇ CEZASI;Stripe
+1.ÇARPIŞ 2.FELÇ 3.OKŞAMAK;Stroke
+GÜÇLÜ;Strong
+YAPI;Structure
+1.KAVGA ETMEK 2.ÇABA;Struggle
+ÖĞRENCİ;Student
+SÜTÜDYO;Studio
+ÇALIŞMAK, OKUMAK, İNCELEMEK;Study
+1.CİSİM , ŞEY 2.TIKIŞTIRMAK;Stuff
+APTAL;Stupid
+KEKELEMEK, KEKEME;Stutter
+SİTİL;Style
+1.KONU  2.ÖZNE;Subject
+DENİZALTI;Submarine
+1)REYİNE,ONAMASINA BIRAKMA 2)TESLİM OLMA,BOYUN EĞME;Submit
+1)ABONE PARASI ÖDEME 2)SÜREKLİ PARA YARDIMI YAPMAK;Subscribe
+YARDIM ETME (In scholl you can buy subsidized meats);Subsidize
+YARDIM, SÜBVANSİYON (Devletten);Subsidy
+MADDE, CEVHER;Substance
+VEKİL TAYİN ETME, YERİNE GEÇME;Substitute
+ÇIKARMAK (6-3=3);Subtract
+BANLİYÖ;Suburb
+ALT GEÇİT , ALT YOL;Subway
+1.BAŞARMAK  2.YERİNİ ALMAK;Succeed
+BAŞARI;Success
+ARDARDA ,DEVAMLI;Succession
+1.BUNUN GİBİ  2.BU KADAR;Such
+EMMEK;Suck
+ANİ;Sudden
+ACI ÇEKMEK;Suffer
+YETERİNCE;Sufficient
+ŞEKER;Sugar
+ÖNERMEK;Suggest
+ÖNERİ;Suggestion
+İNTİHAR (Commit suicide : İntihar etmek);Suicide
+1.YAKIŞMAK 2.UYGUN GELMEK 3.TAKIM ELBİSE;Suit
+BAVUL (Elbise iρin);Suitcase
+TOPLAM;Sum
+ÖZET;Summary
+YAZ;Summer
+ZİRVE;Summit
+GÜNEŞ;Sun
+PAZAR (günü );Sunday
+GÜNEŞİN BATIŞI;Sunset
+GÜNEŞ IŞIĞI;Sunshine
+BRONZ RENGİ (ciltte);Suntan
+SÜPER;Super
+HARİKA, ÇOK GÜZEL;Superb
+DAHA İYİ, ÖNEMLİ, AKILLI;Superior
+BATIL İNANÇ;Superstition
+DENETLEME, GÖZLEM;Supervise
+YEMEK (günün son yemeği);Supper
+ERZAK, MAL;Supplies
+SAĞLAMAK, MİKTAR;Supply
+TAŞIMAK, YARDIM ETMEK, TARAF TUTMAK, DESTEKLEMEK;Support
+SANMAK;Suppose
+1)BASKI ALTINA ALMA,SİNDİRME 2)YAYINLANMASINI ÖNLEME;Suppress
+YÜCE, ÜSTÜN;Supreme
+EMİN, KESİN;Sure
+YÜZEY;Surface
+CERRAH;Surgeon
+AMELİYAT;Surgery
+SOYADI;Surname
+1.ŞAŞIRTMAK 2.SÜRPRİZ;Surprise
+TESLİM OLMAK (To yield);Surrender
+ÇEVRELEMEK;Surround
+ŞÜPHELENMEK;Suspect
+ASKIYA ALMAK, DURDURMAK;Suspend
+ASMA,ASILMA (Suspensıon Brıdge : Asma köprü);Suspension
+ŞÜPHE;Suspicion
+1.YUTMAK 2. KIRLANGIÇ;Swallow
+KUĞU;Swan
+1.YEMİN ETMEK 2.KÜFRETMEK;Swear
+TER,TERLEMEK;Sweat
+SÜVETER;Sweater
+SÜPÜRMEK;Sweep
+TATLI;Sweet
+ŞİŞMEK, KALINLAŞMAK;Swell
+YÜZMEK;Swim
+1.SALLANMAK  2.GÜÇLÜ RİTİM;Swing
+AÇMAK, KAPATMAK (düğme);Switch
+ŞİŞMİŞ;Swollen
+KILIÇ;Sword
+SEMBOL;Symbol
+ŞURUP;Syrup
+SİSTEM;System
+1.MASA 2.TABLO,LİSTE;Table
+TABLET;Tablet
+AYIP, ARGO, TABU;Taboo
+KUYRUK (kedi,uçak v.b);Tail
+TERZİ;Tailor
+TUTMAK,ALMAK,TAKE OFF=elbise çıkarmak,uçak kalkması;Take
+1)KABİLİYET (ÜSTÜN) 2)SEKSİ CAZİBESİ OLAN KADIN;Talent
+KONUŞMA, KONUŞMAK;Talk
+KONUŞKAN;Talkative
+UZUN;Tall
+EVCİL, EVCİLLEŞTİRMEK;Tame
+TEN RENGİ;Tan
+MANDALİNA;Tangerine
+1.TANK (depo) 2.TANK (silah);Tank
+1.MUSLUK 2.TIKLATMAK;Tap
+BANT, SELOTEYP;Tape
+MEZURA;Tape-Measure
+HEDEF;Target
+TARİFE, FİAT LİSTESİ;Tariff
+1)TURTA,TART,PASTA 2)ASİT TADI3)SOKAK KADINI,FAHİŞE;Tart
+GÖREV;Task
+TATMAK, TAD;Taste
+VERGİ;Tax
+TAKSİ;Taxi
+ÇAY;Tea
+ÖĞRETMEK;Teach
+ÖĞRETMEN;Teacher
+TAKIM, GRUP;Team
+1.GÖZYAŞI 2.DELİK (kumaş,kağıtta v.b) 3.YIRTMAK;Tear
+1)KIZDIRMA,YÜZ VERİP SONRA SIRT ÇEVİRME2)KABARTMA(SA;Tease
+TEKNİK;Technique
+13-19 YAŞ ARASI;Teenager
+TELGRAF;Telegram
+TELEFON;Telephone
+TELESKOP;Telescope
+TELEVİZYON;Television
+ANLATMAK, SÖYLEMEK;Tell
+1.RUHSAL DURUM 2.KIZGIN;Temper
+SICAKLIK;Temperature
+TAPINAK;Temple
+GEÇİCİ;Temporary
+CEZBETMEK, ŞEYTANA UYDURMAK;Tempt
+KİRACI;Tenant
+MEYİLLİ OLMAK;Tend
+1.KOLAY ÇİĞNENEBİLEN 2.YUMUŞAK, İYİ HUYLU 3.İHALE;Tender
+TENTE,ÇADIR;Tent
+1.ZAMAN DİLİMİ 2.SÖZCÜKLER  3.SÖMESTR;Term
+TERMİNAL;Terminal
+BİTİŞİK EVLER;Terrace
+KORKUNÇ, KÖTÜ;Terrible
+1.KOCAMAN 2.ÇOK GÜZEL;Terrific
+KORKUTMAK;Terrify
+TOPRAK PARÇASI;Territory
+1.BÜYÜK KORKU  2.TERÖR;Terror
+SINAMAK, DENEMEK, TEST;Test
+...DEN ...DAN EKİ;Than
+TEŞEKKÜR ETMEK;Thank
+O;That
+TİYATRO;Theatre
+ONLARIN;Their
+ONLARI;Them
+TEMA, KONU;Theme
+1.ÖYLEYSE 2.O ZAMANDA 3.ONDAN SONRA,DAHA SONRA;Then
+TEORİ;Theory
+1.ORADA 2.VAR OLMAK (There is DALLAS on TV today.);There
+DOLAYISIYLA;Therefore
+TERMOMETRE;Thermometer
+BUNLAR;These
+ONLAR (çoğul üçüncü kişi zamiri);They
+1.KALIN 2.SIK;Thick
+HIRSIZ;Thief
+İNCE;Thin
+ŞEY;Thing
+DÜŞÜNMEK;Think
+ÜÇÜNCÜ;Third
+SUSAMIŞLIK, SUSATAN;Thirsty
+ONÜÇÜNCÜ;Thirteenth
+OTUZUNCU;Thirtieth
+BU;This
+1.TÜMÜYLE 2.DİKKATLİ;Thorough
+TAMAMIYLA, BÜTÜN İNCE DETAYLARIYLA;Thoroughly
+ONLAR;Those
+NEDENSE;Though
+DÜŞÜNCE;Thought
+DÜŞÜNCELİ,ÖBÜRLERİNİ DÜŞÜNEN;Thoughtful
+DÜŞÜNCESİZ;Thoughtless
+İP, İPİ İĞNEYE TAKMAK;Thread
+TEHTİD;Threat
+TEHTİD ETMEK;Threaten
+GIRTLAK, YEMEK BORUSU;Throat
+İÇİNDEN, BAŞTAN SONA;Through
+FIRLATMAK;Throw
+EL, BAŞ PARMAĞI;Thumb
+GÖK GÜRÜLTÜSÜ;Thunder
+FIRTINA;Thunderstorm
+PERŞEMBE;Thursday
+BÖYLE, BÖYLECE;Thus
+SAAT SESİ, OKEY İŞARETİ;Tick
+BİLET;Ticket
+GEL-GİT OLAYI;Tide
+DÜZENLİ, DERLİ TOPLU;Tidy
+1.BAĞ, BAĞLAMAK, BERABERE 2.BOYUNBAĞI KRAVAT;Tie
+KAPLAN;Tiger
+SIKI, KOLAY AÇILMAZ;Tight
+1.KADAR 2.YAZAR KASA;Till
+1.ZAMAN 2.KERE 3.ZAMANLAMAK;Time
+(zaman) TARİFESİ (gemi,uçak v.b);Timetable
+1.TENEKE 2.KONSERVE;Tin
+ÇOK KÜÇÜK;Tiny
+1.BAHŞİŞ, BAHŞİŞ VERMEK  2.ÖNERİ,TAVSİYE 3.UC;Tip
+YORMAK;Tire
+YORGUN;Tired
+KAĞIT MENDİL;Tissue
+1.BAŞLIK  2.UNVAN;Title
+..e KADAR;To
+1.TOST, TOST YAPMAK  2.KADEH KALDIRMAK;Toast
+TÜTÜN;Tobacco
+BUGÜN;Today
+AYAK BAŞ PARMAĞI;Toe
+BİRLİKTE;Together
+TUVALET;Toilet
+1)İŞARET 2)JETON;Token
+DOMATES;Tomato
+YARIN;Tomorrow
+TON (1000 kg.);Ton
+TON (SES,IŞIK vs.);Tone
+DİL;Tongue
+BU GECE;Tonight
+1.ÇOK 2....DE ...DA EKİ;Too
+ALET (Çekiρ, Balta vb.);Tool
+DİŞ;Tooth
+KÜRDAN;Tooth Pick
+EN YÜKSEK, EN İYİ, ÜST, KAPAK;Top
+KONU;Topic
+1)MEŞALE 2)EL FENERİ;Torch
+TORPİL;Torpedo
+KAPLUMBAĞA;Tortoise
+İŞKENCE, İŞKENCE ETMEK;Torture
+TOPLAM;Total
+BÜTÜNÜYLE;Totally
+DOKUNMAK;Touch
+ZOR, GÜÇ, SERT;Tough
+TUR;Tour
+TURNUVA;Tournament
+DOĞRU (ona doğru, akşama doğru)çok yakın sonlarında;Towards
+HAVLU;Towel
+KULE;Tower
+KASABA;Town
+OYUNCAK;Toy
+İZ, İZ SÜRMEK;Trace
+İZ SÜRMEK, TAKİP ETMEK;Track
+1.TİCARET  2.İŞ;Trade
+GELENEK;Tradition
+TRAFİK;Traffic
+TRAJEDİ;Tragedy
+1.EĞİTMEK  2.STAJ YAPMAK   3.TREN;Train
+EĞİTİM,ÖĞRETİM;Training
+TRANSFER;Transfer
+BİR ŞEYİN ŞEKLİNİ DEĞİŞTİRMEK;Transform
+ÇEVİRİ , TERCÜME;Translate
+SAYDAM;Transparent
+TAŞIMACILIK;Transport
+TUZAK, KAPAN, YAKALAMAK;Trap
+YOLCULUK YAPMAK;Travel
+TEPSİ;Tray
+HAZİNE;Treasure
+1.DAVRANMAK,MUAMELE ETMEK 2.TEDAVİ ETMEK 3.İKRAM;Treat
+1.DAVRANIŞ  2.TEDAVİ;Treatment
+AĞAÇ;Tree
+ÇOK BÜYÜK, HARİKA;Tremendous
+1.DENEME,TEŞEBBÜS 2.DURUŞMA 3.TRIALBALANCE = MİZAN;Trial
+KABİLE;Tribe
+1.HİLE,HİLE YAPMAK  2.OYUN (kağıt oyunları vb.);Trick
+TETİK ( Who pulled triger? );Trigger
+1.GEZİ  2.ÇELME TAKMAK;Trip
+ÜÇ AYAKLI SEHPA, FOTOĞRAF SEHPASI;Tripod
+ZAFER, UTKU;Triumph
+İNSAN VEYA HAYVA GRUBU, SÜRÜ;Troop
+ASKERLER;Troops
+DERT, DERT ETMEK;Trouble
+PANTOLON;Trousers
+KAMYON;Truck
+DOĞRU, GERÇEK;True
+1.AĞAÇ GÖVDESİ  2.SANDIK  3. FİL HORTUMU;Trunk
+GÜVENMEK;Trust
+GERÇEK;Truth
+DENEMEK, DENEME;Try
+TÜP;Tube
+SALI;Tuesday
+ÖĞRETİM, ÖZEL DERS;Tuition
+LALE, LALE FİDANI;Tulip
+MİDE;Tummy
+1.AKORD ETMEK, AYARLAMAK, 2.EZGİ;Tune
+TÜNEL;Tunnel
+TÜRBAN;Turban
+1.HİNDİ  2 TÜRKİYE;Turkey
+DÖNMEK, DÖNÜŞ 2.It's your turn=Sıra sende;Turn
+ANAHTAR TESLİM (proje vb.);Turnkey
+CİRO (SATIS);Turnover
+İKİ KEZ;Twice
+ÇEVİRMEK(kuvvetlice), KIVIRMAK,BURKULMAK;Twist
+1.ÇEŞİT, TİP 2.DAKTİLOYLA YAZMAK;Type
+TİPİK;Typical
+DAKTİLODA YAZI YAZAN KİMSE;Typist
+LASTİK;Tyre
+UNIDENTIFIEND FLYING OBJECT: TANIMLANMAMIŞ UÇAN CİSİ;Ufo
+ÇİRKİN;Ugly
+ŞEMSİYE;Umbrella
+MUKTEDİR OLMAMAK;Unable
+DAYI, AMCA;Uncle
+BİLİNÇSİZLİK;Unconscious
+ALTTA, ALTA;Under
+İÇ ÇAMAŞIRI;Underclothes
+KATLANMAK, ÇEKMEK, BİR OLAYIN OLMASI;Undergo
+YAZININ, KELİMENİN ALTINI ÇİZMEK;Underline
+ANLAMAK;Understand
+İŞSİZLİK;Unemployment
+ADALETSİZ;Unfair
+ADİL OLMAYAN;Unfair
+HOŞA GİTMEYEN;Unfavourable
+MUTSUZ;Unhappy
+SAĞLIKSIZ;Unhealthy
+1.ÜNİFORMA 2.TEK TİP;Uniform
+1.SENDİKA  2.BİRLEŞME;Union
+BİRİM, 1-9 ARASINDAKİ SAYILAR;Unit
+BİRLEŞMEK;Unite
+ÜNİVERSİTE;University
+BİLİNMEYEN;Unknown
+OLMADIKÇA;Unless
+AZ İHTİMALLE;Unlikely
+BOŞALTMAK (yük boşaltmak);Unload
+KİLİDİ AÇMAK;Unlock
+KADAR (belli bir zamana kadar);Until
+1.YUKARI  2.DİKİNE  3.TÜMÜYLE;Up
+SANA KALMIŞ, NASIL İSTERSEN (It's up to you);Up To You
+ÜSTÜNDE;Upon
+ÜST;Upper
+1.ENDİŞELENDİRMEK  2.DEVİRMEK;Upset
+TEPE TAKLAK, TERS DÖNMEK;Upside-Down
+ÜST KAT, YUKARISI;Upstairs
+BUGÜNE KADAR;Up-To-Date
+YUKARIYA DOĞRU;Upward
+ŞEHİRSEL, KENTE AİT (Urban Life : Şehirsel yaşam);Urban
+DÜRTME, (ısrar ederek ) YAPTIRMA ,ZORLAMAK;Urge
+ACİL;Urgent
+BİZE;Us
+1.KULLANIM  2.FONKSİYON;Use
+KULLANMAK;Use
+KULLANIŞLI;Useful
+OLAĞAN;Usual
+(VERY IMPORTANT PERSON), ÇOK ÖNEMLİ KİŞİ;V.I.P.
+1.BOŞ  2.AÇIK (bir iş yerinde);Vacant
+TATİL;Vacation
+ ELEKTRİK SÜPÜRGESİ;Vacuum cleaner
+GEREKSİZ, BOŞUNA;Vain
+VADİ;Valley
+DEĞERLİ;Valuable
+DEĞER;Value
+MİNİBÜS;Van
+VANİLYA;Vanilla
+BUHARLAŞMAK;Vaporize
+1.FARK  2.ÇEŞİTLİLİK, ÇEŞİT;Variety
+DEĞİŞİK, ÇEŞİTLİ;Various
+VAZO;Vase
+SEBZE;Vegetable
+TAŞIT ARACI ( kamyon,TIR,araba v.b );Vehicle
+DUVAK;Veil
+DAMAR;Vein
+KADİFE;Velvet
+MACERA, RİSK (Genelde iş hayatında);Venture
+FİİL;Verb
+HÜKÜM;Verdict
+DİKEY;Vertical
+ÇOK, TAM;Very
+ATLET, FANİLA;Vest
+VETERİNER;Vet
+VETO, VETO ETMEK;Veto
+GEÇEREK,ORADAN (We go from London to Van via Paris.);Via
+GEÇERLİ (But in practice it wouln't be viable);Viable
+1)YARDIMCI, LİDERİN YARDIMCISI 2)MENGENE;Vice
+  KISIR DÖNGÜ;Vicious Circle
+KURBAN, KAZAZEDE;Victim
+KURBAN ETMEK (Grubun suρunu bir kişiye yüklemek.);Victimize
+GALİP;Victor
+UTKU, ZAFER, YENGİ;Victory
+GÖRÜNÜM, MANZARA;View
+VİLLA;Villa
+KÖY;Village
+BAĞ;Vine
+SİRKE;Vinegar
+KABA KUVVET KULLANAN, ŞİDDET;Violent
+KEMAN;Violin
+VİZE;Visa
+GÖRÜNEN;Visible
+GÖRÜŞ, İMGE;Vision
+ZİYARET ETMEK;Visit
+ZİYARETÇİ, KONUK;Visitor
+ÇOK ÖNENEMLİ;Vital
+KELİME DAĞARCIĞI;Vocabulary
+SES;Voice
+VOLKAN,YANARDAĞ;Volcano
+VOLEYBOL;Volleyball
+HACİM;Volume
+GÖNÜLLÜ;Voluntary
+KUSMAK;Vomit
+OY VERMEK, OY;Vote
+SESLİ HARF (a,e,i);Vowel
+DENİZ YOLCULUĞU;Voyage
+KABA, İLKEL;Vulgar
+ZAYIF, KORUMASIZ;Vulnerable
+1)AKBABA 2)HARİS KİMSE;Vulture
+SAAT ÜCRETİ;Wage
+İDDİAYA GİRMEK;Wager
+YÜK VAGONU, AT ARABASI;Wagon
+BEL;Waist
+YELEK;Waistcoat
+BEKLEMEK;Wait
+GARSON;Waiter
+UYANMAK, UYANDIRMAK;Wake
+YÜRÜMEK, YÜRÜYÜŞ;Walk
+DUVAR;Wall
+CÜZDAN;Wallet
+CEVİZ;Walnut
+DOLAŞMAK;Wander
+İSTEMEK, İSTEK;Want
+SAVAŞ;War
+1) BEKÇİ, MUHAFIZ 2) GARDİYAN;Warder
+GARDROP, BÜYÜK DOLAP;Wardrobe
+EŞYA (Kitchen ware vb.);Ware
+DEPO;Warehouse
+1.ILIK, ILINDIRMAK  2.SEVECEN;Warm
+UYARMAK;Warn
+GARANTİ;Warrant
+1.YIKAMAK   2.KİRLİ ÇAMAŞIR;Wash
+ARI (Bal arısı değil);Wasp
+1.ARTIK, GEREKSİNİM DUYULMAYAN  2.BOŞA HARCAMAK;Waste
+1.İZLEMEK, SEYRETMEK, BAKMAK  2.KOL SAATİ;Watch
+SU, SULAMAK;Water
+SU GEÇİRMEYEN;Water Proof
+  SULU BOYA;Water-Colours
+ŞELALE;Waterfall
+1.DALGA( deniz,radyo) DALGALANMA  2.EL SALLAMAK;Wave
+YOL, ROTA, YÖN;Way
+BİZ;We
+ZAYIF,ERKSİZ;Weak
+SERVET;Wealth
+SİLAH;Weapon
+GİYMEK;Wear
+HAVA,İKLİM;Weather
+ÇARŞAMBA;Wednesday
+HAFTA;Week
+AĞARLIK, TARTMAK;Weigh
+1.AĞIRLAMAK, HOŞ GELDİN;Welcome
+1.İYİ 2.KUYU;Well
+ÜNLÜ, BİLİNEN;Well-Known
+BATI;West
+NEMLİ;Wet
+BALİNA;Whale
+NE;What
+NE OLURDU..;What If
+HERNEYSE;Whatever
+BİLMEM KİM (BİRİSİNİN ADINI UNUTMA);What's Its (His/Her) Name
+BUNUN YANISIRA, ÜSTELİK;What's More
+İŞİN ÖNEMİNİ BİLMEK (I know what's what);What's What
+TEKERLEK, ÇARK, TEKERLEKLİ BİR ŞEYİ ELLE İTMEK;Wheel
+NE ZAMAN;When
+1.HERHANGİ BİR ZAMAN  2.NE ZAMAN Kİ ...;Whenever
+NEREYE, NEREDE;Where
+BU ARADA;While
+KAPRİS;Whim
+KIRBAÇ;Whip
+FISILDAMAK, FISILDAŞMAK;Whisper
+ISLI, ISLIK ÇALMAK, DÜDÜK;Whistle
+BEYAZ, AK, BEYAZ TENLİ;White
+KİM;Who
+HERKİMSE;Whoever
+TÜM, BÜTÜN  WHOLESALES = TOPTAN SATIŞ;Whole
+KİMİN;Whose
+NEDEN, NİÇİN;Why
+1.GENİŞ  2.KENARDAN KENARA;Wide
+DUL;Widow
+KARI (eş);Wife
+PERUK;Wig
+VAHŞİ;Wild
+1.İRADE 2.İSTEK 3. VASİYET 4.GELECEK ZAMAN EKİ;Will
+KAZANMAK;Win
+SARMAK, KURMAK (saat v.b );Wind
+RÜZGAR;Wind
+ARABA ÖN CAMI;Wind Screen
+PENCERE;Window
+NEFES BORUSU;Windpipe
+SİLECEK;Windscreen Wiper
+ŞARAP;Wine
+KANAT (Kuş,uçak)(Left wing:Sol kesimi destekleyenler;Wing
+KIŞ;Winter
+SİLMEK, KURULAMAK (havluyla vs.);Wipe
+1.TEL 2.TELGRAF;Wire
+TELSİZ;Wireless
+AKIL;Wisdom
+ZEKİ, AKILLI;Wise
+İSTEK, İSTEMEK;Wish
+CADI;Witch
+İLE;With
+1.ÇEKMEK  2.GERİ ÇEKİLMEK  3.SIZMAK;Withdraw
+İÇİNDE;Within
+SAHİP OLMAYARAK, YANINDA OLMADAN;Without
+TANIK, TANIKLIK ETMEK;Witness
+KURT;Wolf
+KADIN;Woman
+1.MERAK ETMEK  2.ŞAŞIRMAK;Wonder
+ŞAŞIRTICI, HARİKA;Wonderful
+ODUN;Wood
+YÜN;Wool
+SÖZCÜK, KELİME;Word
+ÇALIŞMAK, İŞ;Work
+İŞÇİ;Worker
+DÜNYA;World
+SOLUCAN;Worm
+ENDİŞELENMEK;Worry
+DAHA KÖTÜ;Worse
+1)TAPMAK, TAPINMAK, İBADET 2)HAYRANLIK, SAYGI;Worship
+EN KÖTÜ;Worst
+DEĞERİNDE OLMAK, DEĞERDE;Worth
+YARALAMAK, YARA;Wound
+PAKETLEMEK, SARMAK;Wrap
+HURDA, ENKAZ ,ÇARPIŞMA,MAFOLMA;Wreck
+BİLEK;Wrist
+YAZMAK;Write
+YANLIŞ;Wrong
+RÖNTGEN IŞINI, X IŞINI;X-Ray
+YAT (deniz taşıtı );Yacht
+AVLU;Yard
+YIL;Year
+SARI;Yellow
+EVET;Yes
+DÜN;Yesterday
+HALA, ŞİMDİYE KADAR, HENÜZ;Yet
+1.ÜRÜN VERMEK  2.DIŞARI VERMEK  3.TESLİM OLMAK;Yield
+YOĞURT;Yoghurt
+YUMURTANIN SARISI;Yolk
+GENÇ;Young
+SENİN, SİZİN;Your
+GENÇLİK;Youth
+SIFIR;Zero
+FERMUAR;Zip
+BÖLGE;Zone
+YAKLAŞTIRMAK;Zoom

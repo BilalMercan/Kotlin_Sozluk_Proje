@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#4A4343"
+        android:centerColor="#393934"
+        android:endColor="#38383E"
+        android:angle="270"
+        android:icon="@android:drawable/ic_search_category_default"
+        />
+
+    <corners
+        android:radius="17dp"
+
+        />
+
+
+     <stroke
+
+         android:color="#201818"
+         android:width="1dp"
+         />
+
+    </shape>
